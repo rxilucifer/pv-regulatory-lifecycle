@@ -93,7 +93,7 @@ No studies are included in this exercise.
 |---|---|---|
 | Rash | New, ongoing | PV-005 |
 
-Rash had {rash_i} reports in the interval and {rash_c} cumulatively. It met the screening rule, mainly at 25 mg and in patients aged 65 and over (PV-005). PV-005 used all reports in the database, including some received after the data lock point. It has not been confirmed as caused by DMX-101.
+Rash had {rash_i} reports in the interval and {rash_c} cumulatively. It met the screening rule, mainly at 25 mg and in patients aged 65 and over (PV-005). PV-005 used all reports in the database, including some received after the data lock point. It has not been confirmed as related to DMX-101.
 
 ### Timeliness of reporting
 {late_i} of {ser_i} serious reports in the interval were sent after the 15-day limit (PV-006).
