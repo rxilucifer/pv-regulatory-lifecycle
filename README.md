@@ -9,7 +9,7 @@ A learning project that follows one **fictional** drug, DMX-101, through its saf
 - [x] Module 1: Synthetic safety database
 - [x] Module 2: Case processing
 - [x] Module 3: Reporting clock
-- [ ] Module 4: Signal management
+- [x] Module 4: Signal management
 - [ ] Module 5: Periodic safety report
 - [ ] Module 6: Risk management plan summary
 - [ ] Module 7: Labelling
