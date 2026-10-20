@@ -1,0 +1,40 @@
+event,n_in_group,PRR,chi2,group,listed_in_label,signal
+Back pain,15,1.02,0.0,25 mg,False,False
+Constipation,11,0.75,0.6,25 mg,False,False
+Cough,10,0.87,0.1,25 mg,False,False
+Diarrhoea,12,0.63,1.6,25 mg,False,False
+Dizziness,7,0.42,4.2,25 mg,True,False
+Fatigue,14,0.83,0.3,25 mg,False,False
+Headache,49,1.08,0.2,25 mg,True,False
+Hypoglycaemia,14,1.11,0.1,25 mg,False,False
+Insomnia,8,0.69,0.7,25 mg,False,False
+Nausea,40,0.76,2.0,25 mg,True,False
+Rash,50,5.95,32.2,25 mg,False,True
+Urinary tract infection,14,0.95,0.0,25 mg,False,False
+Vomiting,5,0.48,2.0,25 mg,False,False
+Back pain,10,1.11,0.1,Age 65+,False,False
+Constipation,5,0.53,1.8,Age 65+,False,False
+Cough,4,0.5,1.7,Age 65+,False,False
+Diarrhoea,9,0.91,0.1,Age 65+,False,False
+Dizziness,6,0.75,0.4,Age 65+,True,False
+Fatigue,8,0.77,0.4,Age 65+,False,False
+Headache,25,0.79,1.3,Age 65+,True,False
+Hypoglycaemia,8,0.94,0.0,Age 65+,False,False
+Insomnia,5,0.76,0.3,Age 65+,False,False
+Nausea,25,0.81,0.9,Age 65+,True,False
+Rash,37,3.73,30.4,Age 65+,False,True
+Urinary tract infection,10,1.18,0.2,Age 65+,False,False
+Vomiting,4,0.77,0.2,Age 65+,False,False
+Back pain,5,1.18,0.1,25 mg and age 65+,False,False
+Constipation,1,0.24,2.5,25 mg and age 65+,False,False
+Cough,2,0.6,0.5,25 mg and age 65+,False,False
+Diarrhoea,1,0.2,3.4,25 mg and age 65+,False,False
+Dizziness,2,0.54,0.8,25 mg and age 65+,True,False
+Fatigue,4,0.87,0.1,25 mg and age 65+,False,False
+Headache,9,0.61,2.4,25 mg and age 65+,True,False
+Hypoglycaemia,4,1.03,0.0,25 mg and age 65+,False,False
+Insomnia,2,0.67,0.3,25 mg and age 65+,False,False
+Nausea,7,0.48,4.5,25 mg and age 65+,True,False
+Rash,32,6.96,83.2,25 mg and age 65+,False,True
+Urinary tract infection,3,0.68,0.4,25 mg and age 65+,False,False
+Vomiting,1,0.4,0.8,25 mg and age 65+,False,False
