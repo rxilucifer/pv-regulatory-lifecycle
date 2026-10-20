@@ -1,4 +1,4 @@
-"""Check each fake report against the reporting deadlines in R-06.
+"""Check each fake report against the reporting deadlines in R-11.
 Rule used (Indian MAH guidance v2.0, section 2.8): serious reports within
 15 calendar days of receipt, non-serious within 30 calendar days.
 Run:  python tools/reporting_clock.py

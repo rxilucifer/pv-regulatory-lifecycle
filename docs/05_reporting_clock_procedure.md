@@ -18,7 +18,7 @@ Describes how the due date for each fictional DMX-101 report is worked out and c
 | Serious | 15 calendar days | Date the report was received |
 | Non-serious | 30 calendar days | Date the report was received |
 
-Source: Pharmacovigilance Guidance Document for Marketing Authorization Holders, Version 2.0, section 2.8 (see the references register, R-06). The cover of that document shows no effective date, so its current status should be confirmed.
+Source: Pharmacovigilance Guidance Document for Marketing Authorization Holders, Version 2.0, section 2.8 (see the references register, R-11). The cover of that document shows no effective date, so its current status should be confirmed.
 
 ## Method
 1. Take the receipt date of each report.
