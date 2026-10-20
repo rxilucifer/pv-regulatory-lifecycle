@@ -1,0 +1,248 @@
+report_id,patient_age,sex,strength_mg,start_date,onset_date,event_term,serious,outcome,causality
+DMX-0003,60.0,M,25,2026-01-26,2026-02-16,Nausea,N,Not recovered,Not assessed
+DMX-0005,56.0,M,25,2026-03-16,2026-05-09,Rash,N,Recovered,Not assessed
+DMX-0006,60.0,M,10,2025-12-03,2026-01-31,Vomiting,N,Recovered,Not assessed
+DMX-0007,50.0,F,10,2026-03-22,2026-04-15,Nausea,N,Unknown,Not assessed
+DMX-0008,38.0,F,10,2025-09-11,2025-10-30,Urinary tract infection,N,Unknown,Not assessed
+DMX-0011,74.0,M,10,2025-12-20,2026-02-14,Rash,N,Recovering,Not assessed
+DMX-0012,69.0,M,25,2026-03-31,2026-05-06,Nausea,N,Unknown,Not assessed
+DMX-0013,45.0,M,25,2026-02-20,2026-02-26,Cough,N,Recovered,Not assessed
+DMX-0014,31.0,F,25,2025-09-12,2025-10-27,Rash,N,Recovered,Not assessed
+DMX-0015,40.0,F,25,2025-10-02,2025-11-29,Cough,N,Unknown,Not assessed
+DMX-0016,62.0,F,10,2026-01-11,2026-02-10,Headache,Y,Recovering,Not assessed
+DMX-0017,60.0,M,10,2026-01-18,2026-03-03,Rash,N,Unknown,Not assessed
+DMX-0024,51.0,M,10,2026-01-27,,Urinary tract infection,N,Recovering,Not assessed
+DMX-0026,58.0,F,10,2025-12-07,2026-01-27,Insomnia,N,Unknown,Not assessed
+DMX-0029,40.0,F,10,2025-12-21,2025-12-31,Headache,N,Recovering,Not assessed
+DMX-0035,45.0,F,25,2026-02-11,2026-03-12,Nausea,N,Recovered,Not assessed
+DMX-0037,58.0,M,25,2025-11-19,2025-12-13,Urinary tract infection,N,Recovering,Not assessed
+DMX-0039,61.0,M,10,2025-12-20,2026-02-16,Nausea,N,Recovering,Not assessed
+DMX-0040,73.0,F,25,2025-09-13,2025-11-04,Back pain,N,Not recovered,Not assessed
+DMX-0041,69.0,F,10,2026-02-26,2026-03-30,Back pain,N,Recovered,Not assessed
+DMX-0043,56.0,F,25,2025-12-05,2025-12-29,Constipation,N,Recovered,Not assessed
+DMX-0048,33.0,M,10,2026-03-24,2026-04-20,Headache,N,Not recovered,Not assessed
+DMX-0055,53.0,F,25,2026-01-17,2026-01-30,Nausea,N,Recovered,Not assessed
+DMX-0059,44.0,F,10,2026-03-12,2026-03-21,Nausea,N,Recovered,Not assessed
+DMX-0060,43.0,F,25,2026-01-12,2026-02-19,Cough,N,Recovered,Not assessed
+DMX-0063,66.0,M,10,2026-02-25,2026-04-12,Constipation,N,Recovered,Not assessed
+DMX-0064,55.0,F,10,2025-12-05,2025-12-20,Nausea,N,Recovered,Not assessed
+DMX-0067,61.0,M,25,2025-10-20,2025-11-25,Urinary tract infection,N,Recovering,Not assessed
+DMX-0068,82.0,F,25,2025-10-04,2025-12-01,Back pain,N,Recovering,Not assessed
+DMX-0069,55.0,F,25,2026-02-06,2026-03-25,Fatigue,N,Recovered,Not assessed
+DMX-0072,,F,25,2025-12-09,2026-01-25,Rash,N,Not recovered,Not assessed
+DMX-0075,57.0,F,10,2025-10-08,2025-12-05,Vomiting,N,Unknown,Not assessed
+DMX-0082,63.0,F,10,2026-01-31,2026-03-20,Diarrhoea,N,Recovered,Not assessed
+DMX-0086,66.0,F,10,2025-12-16,2026-01-04,Nausea,N,Not recovered,Not assessed
+DMX-0087,90.0,F,10,2025-12-20,2026-02-06,Insomnia,N,Unknown,Not assessed
+DMX-0091,68.0,M,10,2026-01-18,2026-01-20,Nausea,N,Recovering,Not assessed
+DMX-0092,58.0,M,25,2026-01-28,2026-02-20,Insomnia,N,Unknown,Not assessed
+DMX-0094,71.0,F,10,2025-12-12,2026-01-17,Insomnia,N,Recovering,Not assessed
+DMX-0096,31.0,M,25,2026-03-14,2026-04-24,Headache,N,Recovered,Not assessed
+DMX-0097,81.0,F,10,2025-12-04,2025-12-28,Rash,N,Recovered,Not assessed
+DMX-0099,76.0,M,25,2025-12-26,2026-02-23,Headache,N,Recovered,Not assessed
+DMX-0100,39.0,M,10,2025-12-29,2026-01-21,Insomnia,N,Recovering,Not assessed
+DMX-0101,70.0,M,10,2025-10-24,2025-11-26,Headache,N,Recovered,Not assessed
+DMX-0106,79.0,F,10,2026-02-06,2026-02-25,Diarrhoea,N,Recovered,Not assessed
+DMX-0107,55.0,M,10,2025-09-08,2025-10-15,Cough,Y,Recovering,Not assessed
+DMX-0108,44.0,F,10,2025-12-30,2026-01-22,Urinary tract infection,N,Recovering,Not assessed
+DMX-0109,70.0,M,10,2026-02-20,2026-04-09,Diarrhoea,N,Unknown,Not assessed
+DMX-0111,60.0,M,10,2026-01-19,2026-02-14,Constipation,N,Recovered,Not assessed
+DMX-0113,59.0,M,25,2026-02-03,2026-03-31,Headache,N,Recovering,Not assessed
+DMX-0114,43.0,M,10,2026-02-28,2026-04-17,Nausea,N,Recovered,Not assessed
+DMX-0117,52.0,F,25,2025-12-18,2026-02-04,Hypoglycaemia,N,Recovering,Not assessed
+DMX-0119,56.0,F,10,2025-12-21,2026-02-09,Headache,N,Unknown,Not assessed
+DMX-0120,66.0,M,25,2026-02-11,2026-03-02,Fatigue,N,Recovered,Not assessed
+DMX-0123,75.0,F,10,2026-03-16,2026-04-22,Diarrhoea,N,Recovered,Not assessed
+DMX-0125,48.0,M,25,2026-01-24,2026-02-25,Dizziness,N,Unknown,Not assessed
+DMX-0126,74.0,F,25,2025-12-11,2026-01-04,Rash,N,Unknown,Not assessed
+DMX-0127,79.0,F,25,2026-03-16,2026-03-20,Headache,N,Recovering,Not assessed
+DMX-0129,55.0,M,25,2025-12-28,2026-02-05,Cough,N,Recovering,Not assessed
+DMX-0131,28.0,F,25,2026-02-25,2026-02-27,Diarrhoea,N,Recovered,Not assessed
+DMX-0133,56.0,M,25,2025-09-30,2025-11-17,Diarrhoea,N,Recovered,Not assessed
+DMX-0134,62.0,M,25,2025-12-06,2025-12-13,Headache,Y,Recovering,Not assessed
+DMX-0136,49.0,F,25,2025-12-19,2026-01-18,Nausea,N,Not recovered,Not assessed
+DMX-0137,62.0,M,25,2025-12-24,2026-02-19,Nausea,N,Recovered,Not assessed
+DMX-0138,49.0,M,10,2025-12-01,2025-12-04,Dizziness,N,Unknown,Not assessed
+DMX-0141,35.0,M,10,2026-02-28,2026-03-14,Dizziness,N,Unknown,Not assessed
+DMX-0143,53.0,F,10,2026-01-13,2026-02-19,Hypoglycaemia,N,Unknown,Not assessed
+DMX-0144,60.0,M,10,2026-03-08,2026-04-06,Constipation,N,Recovered,Not assessed
+DMX-0145,81.0,M,10,2025-12-30,2026-02-13,Fatigue,N,Unknown,Not assessed
+DMX-0146,66.0,M,25,2026-01-11,2026-03-05,Rash,N,Recovered,Not assessed
+DMX-0148,42.0,M,10,2025-12-05,2026-01-11,Hypoglycaemia,N,Not recovered,Not assessed
+DMX-0149,50.0,F,25,2025-12-10,2025-12-27,Headache,N,Not recovered,Not assessed
+DMX-0150,38.0,F,10,2026-03-28,2026-05-06,Nausea,N,Not recovered,Not assessed
+DMX-0151,41.0,F,10,2026-01-27,2026-02-05,Nausea,N,Recovered,Not assessed
+DMX-0153,46.0,M,10,2026-01-05,2026-01-28,Nausea,N,Not recovered,Not assessed
+DMX-0159,69.0,M,10,2025-12-04,2026-01-25,Cough,N,Unknown,Not assessed
+DMX-0161,30.0,M,25,2026-03-12,2026-03-16,Fatigue,N,Unknown,Not assessed
+DMX-0164,44.0,F,25,2026-01-11,2026-01-29,Headache,Y,Recovering,Not assessed
+DMX-0166,48.0,M,25,2025-12-22,2026-02-17,Constipation,N,Recovered,Not assessed
+DMX-0168,73.0,F,10,2025-12-16,2026-01-15,Constipation,N,Recovering,Not assessed
+DMX-0169,58.0,M,25,2025-11-24,2026-01-01,Urinary tract infection,N,Recovering,Not assessed
+DMX-0170,54.0,F,25,2025-10-24,2025-11-22,Vomiting,N,Recovered,Not assessed
+DMX-0171,64.0,F,25,2026-01-19,2026-03-05,Fatigue,N,Recovered,Not assessed
+DMX-0173,51.0,M,10,2025-12-26,2025-12-30,Insomnia,N,Recovered,Not assessed
+DMX-0174,50.0,M,25,2026-01-30,2026-03-30,Headache,N,Not recovered,Not assessed
+DMX-0175,66.0,F,25,2026-02-27,2026-03-10,Rash,Y,Not recovered,Not assessed
+DMX-0179,40.0,F,25,2026-03-13,2026-03-03,Headache,N,Recovering,Not assessed
+DMX-0180,87.0,F,25,2025-11-26,2026-01-21,Urinary tract infection,N,Recovered,Not assessed
+DMX-0185,47.0,F,10,2026-02-08,2026-02-17,Nausea,N,Recovered,Not assessed
+DMX-0193,57.0,M,25,2025-12-15,2026-01-19,Headache,N,Not recovered,Not assessed
+DMX-0194,70.0,M,25,2026-02-22,2026-04-13,Nausea,Y,Recovered,Not assessed
+DMX-0195,58.0,M,25,2025-10-22,2025-11-03,Rash,N,Unknown,Not assessed
+DMX-0196,59.0,F,10,2026-01-05,2026-02-18,Fatigue,N,Recovered,Not assessed
+DMX-0197,67.0,F,10,2025-12-10,2026-01-29,Headache,N,Recovered,Not assessed
+DMX-0200,58.0,F,10,2025-11-24,2026-01-23,Nausea,N,Recovered,Not assessed
+DMX-0201,70.0,M,10,2026-01-17,2026-02-08,Nausea,N,Recovered,Not assessed
+DMX-0203,48.0,F,25,2026-02-26,2026-04-22,Insomnia,N,Recovered,Not assessed
+DMX-0204,43.0,F,25,2026-01-17,2026-02-23,Fatigue,N,Not recovered,Not assessed
+DMX-0205,47.0,F,10,2026-01-08,2026-01-13,Fatigue,N,Recovering,Not assessed
+DMX-0208,68.0,M,25,2025-12-30,2026-02-13,Fatigue,N,Recovered,Not assessed
+DMX-0210,53.0,F,10,2025-10-30,2025-11-28,Nausea,N,Recovering,Not assessed
+DMX-0211,46.0,F,10,2025-12-21,2026-02-01,Cough,N,Not recovered,Not assessed
+DMX-0212,66.0,M,10,2025-11-21,2026-01-20,Headache,N,Unknown,Not assessed
+DMX-0213,73.0,F,10,2025-11-18,2026-01-12,Headache,N,Not recovered,Not assessed
+DMX-0215,59.0,M,25,2025-11-21,2026-01-06,Dizziness,N,Recovered,Not assessed
+DMX-0217,59.0,M,25,2026-02-12,2026-03-19,Headache,N,Recovered,Not assessed
+DMX-0219,,F,25,2026-03-19,2026-03-21,Rash,N,Unknown,Not assessed
+DMX-0225,50.0,M,25,2026-02-26,2026-04-08,Nausea,N,Recovered,Not assessed
+DMX-0226,68.0,M,10,2025-11-14,2025-11-26,Diarrhoea,N,Recovered,Not assessed
+DMX-0227,49.0,M,25,2025-12-02,2026-01-27,Nausea,N,Unknown,Not assessed
+DMX-0228,75.0,M,25,2025-11-06,2025-12-19,Headache,N,Recovered,Not assessed
+DMX-0231,66.0,M,25,2026-03-05,2026-03-15,Rash,Y,Recovering,Not assessed
+DMX-0232,64.0,M,25,2025-11-04,2025-11-15,Headache,N,Unknown,Not assessed
+DMX-0234,67.0,F,25,2025-10-16,2025-12-09,Rash,N,Recovered,Not assessed
+DMX-0237,82.0,F,25,2026-02-17,2026-03-07,Urinary tract infection,N,Unknown,Not assessed
+DMX-0241,64.0,M,25,2026-03-27,2026-04-14,Nausea,N,Unknown,Not assessed
+DMX-0242,48.0,M,25,2026-03-29,2026-04-19,Nausea,N,Recovered,Not assessed
+DMX-0244,43.0,F,10,2026-01-13,2026-01-16,Dizziness,N,Recovering,Not assessed
+DMX-0245,37.0,M,25,2025-10-28,2025-12-18,Nausea,N,Recovering,Not assessed
+DMX-0248,48.0,M,10,2026-02-06,,Dizziness,N,Recovered,Not assessed
+DMX-0251,37.0,F,10,2025-12-22,2025-12-31,Nausea,N,Unknown,Not assessed
+DMX-0253,57.0,F,25,2026-02-26,2026-04-22,Rash,N,Not recovered,Not assessed
+DMX-0254,30.0,F,10,2026-01-24,2026-02-01,Fatigue,N,Not recovered,Not assessed
+DMX-0256,69.0,F,25,2025-12-10,2026-01-29,Rash,N,Recovered,Not assessed
+DMX-0257,79.0,F,25,2026-03-10,2026-04-10,Rash,Y,Unknown,Not assessed
+DMX-0261,78.0,M,25,2025-12-13,2026-01-26,Back pain,N,Recovered,Not assessed
+DMX-0263,65.0,M,25,2025-09-23,2025-11-13,Rash,Y,Recovering,Not assessed
+DMX-0264,56.0,M,25,2025-11-27,2025-12-12,Fatigue,Y,Recovering,Not assessed
+DMX-0265,48.0,M,10,2025-11-16,2025-12-25,Cough,Y,Unknown,Not assessed
+DMX-0267,41.0,F,25,2025-11-07,2025-12-24,Nausea,N,Not recovered,Not assessed
+DMX-0268,56.0,M,10,2025-10-11,2025-10-30,Vomiting,N,Recovered,Not assessed
+DMX-0270,60.0,F,10,2025-12-22,2026-01-22,Constipation,N,Recovered,Not assessed
+DMX-0272,64.0,M,10,2025-10-21,2025-12-10,Insomnia,N,Recovered,Not assessed
+DMX-0276,51.0,F,10,2025-12-30,2026-02-08,Headache,N,Recovered,Not assessed
+DMX-0277,61.0,F,10,2026-02-25,2026-04-01,Nausea,N,Recovering,Not assessed
+DMX-0280,75.0,M,25,2026-03-16,2026-03-29,Cough,N,Recovering,Not assessed
+DMX-0281,53.0,M,10,2025-12-16,2026-02-01,Fatigue,N,Recovered,Not assessed
+DMX-0282,43.0,F,25,2026-01-10,2026-01-21,Cough,N,Recovered,Not assessed
+DMX-0284,0.0,M,10,2025-11-18,2025-12-21,Urinary tract infection,N,Recovered,Not assessed
+DMX-0286,56.0,F,10,2026-02-14,2026-02-27,Hypoglycaemia,N,Recovered,Not assessed
+DMX-0288,76.0,F,10,2025-10-03,2025-11-18,Dizziness,N,Not recovered,Not assessed
+DMX-0291,49.0,M,10,2025-12-03,2026-01-11,Nausea,N,Recovering,Not assessed
+DMX-0292,50.0,F,10,2025-10-21,2025-12-20,Headache,N,Recovered,Not assessed
+DMX-0293,62.0,M,10,2025-11-15,2025-12-02,Insomnia,N,Recovered,Not assessed
+DMX-0294,65.0,M,25,2025-09-18,2025-11-17,Fatigue,N,Unknown,Not assessed
+DMX-0295,51.0,F,10,2026-01-24,2026-02-05,Headache,N,Recovered,Not assessed
+DMX-0296,45.0,M,10,2025-09-25,,Diarrhoea,N,Recovering,Not assessed
+DMX-0297,54.0,F,10,2026-03-20,2026-04-19,Diarrhoea,N,Recovered,Not assessed
+DMX-0300,212.0,F,10,2025-11-11,2025-12-08,Nausea,N,Unknown,Not assessed
+DMX-0301,65.0,M,10,2026-01-06,2026-02-19,Urinary tract infection,N,Recovered,Not assessed
+DMX-0303,53.0,M,25,2025-10-25,2025-11-03,Constipation,N,Recovered,Not assessed
+DMX-0306,72.0,M,25,2026-01-25,2026-03-08,Rash,N,Recovered,Not assessed
+DMX-0308,59.0,F,10,2025-12-09,2026-01-28,Headache,N,Recovering,Not assessed
+DMX-0309,46.0,M,25,2025-11-06,2025-12-13,Back pain,N,Recovered,Not assessed
+DMX-0313,41.0,M,25,2026-01-19,2026-02-23,Headache,N,Recovered,Not assessed
+DMX-0314,49.0,F,10,2026-02-08,2026-03-08,Headache,Y,Recovering,Not assessed
+DMX-0316,45.0,F,10,2026-02-09,2026-02-19,Nausea,N,Recovering,Not assessed
+DMX-0318,39.0,F,10,2026-03-24,2026-04-18,Constipation,N,Recovered,Not assessed
+DMX-0319,43.0,F,25,2025-10-28,2025-12-14,Back pain,N,Recovered,Not assessed
+DMX-0320,58.0,M,10,2025-12-26,,Headache,N,Recovering,Not assessed
+DMX-0322,,M,10,2026-03-23,2026-04-08,Fatigue,N,Recovering,Not assessed
+DMX-0323,38.0,M,10,2025-12-21,2026-01-19,Dizziness,N,Unknown,Not assessed
+DMX-0324,65.0,F,10,2026-01-27,2026-03-15,Nausea,N,Recovered,Not assessed
+DMX-0326,56.0,F,10,2026-01-29,2026-03-08,Dizziness,N,Recovered,Not assessed
+DMX-0328,69.0,F,10,2026-02-09,2026-04-03,Nausea,N,Recovering,Not assessed
+DMX-0329,54.0,F,25,2026-02-02,2026-01-23,Hypoglycaemia,N,Recovering,Not assessed
+DMX-0330,75.0,M,10,2025-12-13,2025-12-21,Headache,N,Recovering,Not assessed
+DMX-0331,61.0,M,10,2025-12-02,2026-01-12,Hypoglycaemia,N,Recovered,Not assessed
+DMX-0334,86.0,F,25,2026-02-02,2026-02-28,Rash,N,Recovered,Not assessed
+DMX-0336,48.0,M,25,2025-11-04,2025-12-23,Headache,N,Unknown,Not assessed
+DMX-0337,74.0,M,10,2026-02-25,2026-04-09,Nausea,N,Not recovered,Not assessed
+DMX-0338,72.0,F,25,2025-11-18,2026-01-08,Rash,N,Not recovered,Not assessed
+DMX-0343,52.0,F,10,2025-11-04,2025-11-27,Constipation,N,Recovered,Not assessed
+DMX-0344,63.0,F,10,2025-12-28,2026-02-03,Constipation,N,Recovering,Not assessed
+DMX-0345,35.0,F,10,2026-02-15,2026-02-21,Vomiting,Y,Not recovered,Not assessed
+DMX-0346,68.0,F,10,2025-11-11,2025-12-13,Headache,N,Recovered,Not assessed
+DMX-0350,71.0,F,10,2025-10-30,2025-12-21,Hypoglycaemia,Y,Unknown,Not assessed
+DMX-0351,77.0,F,10,2025-12-02,2025-12-17,Nausea,N,Unknown,Not assessed
+DMX-0355,65.0,F,10,2025-12-14,2025-12-27,Back pain,N,Recovered,Not assessed
+DMX-0356,65.0,F,25,2025-11-04,2025-11-25,Rash,N,Recovering,Not assessed
+DMX-0359,71.0,F,25,2025-10-12,2025-11-08,Rash,N,Recovering,Not assessed
+DMX-0362,68.0,M,25,2025-09-10,2025-10-30,Urinary tract infection,Y,Recovered,Not assessed
+DMX-0364,31.0,F,25,2026-01-09,2026-02-02,Headache,N,Recovering,Not assessed
+DMX-0365,54.0,M,25,2026-02-13,2026-04-02,Insomnia,N,Recovered,Not assessed
+DMX-0366,,F,25,2025-10-08,2025-11-28,Rash,N,Unknown,Not assessed
+DMX-0367,57.0,M,25,2026-03-03,2026-04-28,Fatigue,N,Recovered,Not assessed
+DMX-0368,58.0,F,25,2026-03-24,2026-04-25,Nausea,N,Unknown,Not assessed
+DMX-0369,49.0,F,25,2025-12-26,2025-12-30,Constipation,N,Recovered,Not assessed
+DMX-0372,56.0,M,25,2026-03-04,2026-04-28,Insomnia,N,Recovering,Not assessed
+DMX-0374,62.0,M,25,2025-12-15,2026-01-15,Headache,N,Recovered,Not assessed
+DMX-0375,61.0,F,25,2025-12-28,2026-01-13,Rash,N,Recovered,Not assessed
+DMX-0379,48.0,M,25,2026-01-18,2026-01-29,Diarrhoea,N,Recovering,Not assessed
+DMX-0382,75.0,M,10,2026-01-03,2026-01-26,Urinary tract infection,N,Recovering,Not assessed
+DMX-0384,39.0,F,25,2025-12-07,2026-01-17,Nausea,N,Not recovered,Not assessed
+DMX-0389,45.0,M,10,2026-03-20,2026-04-09,Back pain,N,Not recovered,Not assessed
+DMX-0390,43.0,M,25,2025-10-28,2025-12-07,Dizziness,N,Fatal,Not assessed
+DMX-0391,69.0,F,10,2026-02-11,2026-03-23,Headache,N,Recovered,Not assessed
+DMX-0392,37.0,M,10,2025-10-01,2025-11-15,Nausea,N,Recovered,Not assessed
+DMX-0398,55.0,M,10,2026-02-11,2026-03-05,Insomnia,N,Recovered,Not assessed
+DMX-0402,53.0,M,10,2026-03-02,2026-04-04,Vomiting,N,Unknown,Not assessed
+DMX-0403,82.0,F,10,2026-02-08,2026-03-24,Fatigue,N,Recovering,Not assessed
+DMX-0405,57.0,M,25,2026-02-27,2026-04-11,Nausea,N,Recovering,Not assessed
+DMX-0407,212.0,M,25,2026-02-22,2026-03-23,Nausea,N,Recovered,Not assessed
+DMX-0408,61.0,F,25,2026-03-29,2026-04-20,Urinary tract infection,N,Recovering,Not assessed
+DMX-0409,62.0,M,25,2025-12-13,2025-12-21,Headache,N,Not recovered,Not assessed
+DMX-0410,65.0,F,25,2026-01-18,2026-03-02,Nausea,N,Recovered,Not assessed
+DMX-0411,50.0,F,10,2026-02-05,2026-03-13,Back pain,N,Not recovered,Not assessed
+DMX-0413,75.0,M,10,2026-02-18,2026-04-08,Rash,N,Unknown,Not assessed
+DMX-0414,43.0,M,25,2025-10-18,2025-12-08,Vomiting,N,Recovered,Not assessed
+DMX-0417,46.0,M,10,2026-02-08,2026-02-15,Headache,Y,Recovered,Not assessed
+DMX-0418,49.0,F,25,2025-11-13,2025-12-13,Headache,N,Recovered,Not assessed
+DMX-0419,43.0,F,10,2026-01-19,2026-02-01,Diarrhoea,Y,Recovered,Not assessed
+DMX-0421,59.0,M,10,2026-01-15,2026-03-01,Back pain,N,Recovering,Not assessed
+DMX-0424,61.0,F,25,2025-11-16,2025-11-23,Headache,N,Recovered,Not assessed
+DMX-0425,38.0,M,10,2026-03-22,2026-03-28,Headache,N,Not recovered,Not assessed
+DMX-0427,56.0,M,10,2026-01-23,2026-01-27,Nausea,N,Recovering,Not assessed
+DMX-0428,33.0,M,25,2025-12-21,2026-02-06,Rash,N,Recovered,Not assessed
+DMX-0430,28.0,M,25,2025-10-28,2025-11-28,Diarrhoea,N,Recovered,Not assessed
+DMX-0432,66.0,M,25,2026-01-12,2026-01-25,Rash,N,Recovered,Not assessed
+DMX-0434,58.0,F,25,2025-11-06,2026-01-04,Headache,N,Unknown,Not assessed
+DMX-0438,57.0,M,25,2025-11-27,2026-01-01,Headache,N,Recovering,Not assessed
+DMX-0439,50.0,M,25,2026-01-21,2026-02-05,Diarrhoea,N,Recovering,Not assessed
+DMX-0442,68.0,M,25,2026-03-13,2026-03-22,Vomiting,N,Recovering,Not assessed
+DMX-0446,59.0,F,25,2025-11-03,2025-12-28,Nausea,N,Recovered,Not assessed
+DMX-0450,25.0,M,10,2025-11-29,2025-12-10,Nausea,N,Recovering,Not assessed
+DMX-0457,73.0,F,25,2025-12-03,2025-12-24,Hypoglycaemia,N,Recovering,Not assessed
+DMX-0458,74.0,M,10,2025-12-05,2026-02-02,Cough,N,Recovering,Not assessed
+DMX-0460,47.0,F,25,2026-01-21,2026-01-25,Urinary tract infection,N,Recovering,Not assessed
+DMX-0461,69.0,M,10,2025-12-18,2026-02-06,Rash,N,Not recovered,Not assessed
+DMX-0465,50.0,F,25,2026-03-05,2026-04-06,Headache,N,Fatal,Not assessed
+DMX-0466,,F,10,2025-12-03,2025-12-30,Vomiting,N,Recovered,Not assessed
+DMX-0468,50.0,F,25,2026-01-21,2026-03-08,Fatigue,N,Fatal,Not assessed
+DMX-0469,44.0,F,25,2026-03-20,2026-04-15,Nausea,N,Not recovered,Not assessed
+DMX-0472,61.0,F,25,2025-11-08,2025-12-19,Nausea,Y,Recovered,Not assessed
+DMX-0473,48.0,F,25,2026-03-11,2026-03-24,Rash,N,Recovering,Not assessed
+DMX-0474,54.0,M,25,2026-01-26,2026-02-09,Headache,N,Recovered,Not assessed
+DMX-0475,69.0,F,10,2026-02-02,2026-03-29,Fatigue,N,Unknown,Not assessed
+DMX-0476,52.0,M,10,2025-11-08,2025-12-18,Vomiting,N,Recovered,Not assessed
+DMX-0477,58.0,M,10,2025-11-26,2025-12-20,Rash,Y,Recovered,Not assessed
+DMX-0480,68.0,M,10,2025-11-12,2026-01-01,Back pain,N,Recovered,Not assessed
+DMX-0486,32.0,M,25,2025-12-22,2025-12-29,Nausea,N,Unknown,Not assessed
+DMX-0487,45.0,F,10,2025-12-20,2026-01-03,Dizziness,N,Recovering,Not assessed
+DMX-0489,65.0,F,25,2026-01-02,2026-01-28,Hypoglycaemia,N,Recovered,Not assessed
+DMX-0491,61.0,M,10,2026-02-03,2026-03-22,Urinary tract infection,N,Not recovered,Not assessed
+DMX-0494,38.0,F,25,2025-12-12,2026-01-14,Rash,Y,Not recovered,Not assessed
+DMX-0495,62.0,F,25,2026-03-03,2026-04-24,Hypoglycaemia,N,Recovering,Not assessed
+DMX-0497,79.0,M,10,2026-01-13,2026-02-25,Headache,Y,Recovered,Not assessed
+DMX-0500,66.0,F,10,2026-01-10,2026-03-01,Rash,Y,Not recovered,Not assessed
