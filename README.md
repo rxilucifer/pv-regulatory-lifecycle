@@ -15,7 +15,7 @@ A learning project that follows one **fictional** drug, DMX-101, through its saf
 - [x] Module 7: Labelling
 - [x] Module 8: Communications
 - [x] Module 9: Dossier tracker
-- [ ] Module 10: Final quality check and portfolio page
+- [x] Module 10: Final quality check and portfolio page
 
 ## How to run
 1. `pip install -r requirements.txt`
@@ -30,3 +30,20 @@ A learning project that follows one **fictional** drug, DMX-101, through its saf
 - `registers/document_register.csv` lists every document with its version and status
 - `registers/regulatory_references.csv` records each guideline used, with the version and the date it was checked
 - `registers/style_rules.csv` lists wording the checker warns about
+
+## Key results
+- A made-up safety database for a fictional drug, DMX-101: 512 reports with 50 planted data problems. The checks found all 50, with no false alarms.
+- Signal screening: rash is not in the label and met the screening rule at 25 mg (PRR 5.95), at age 65 and over (3.73) and for both together (6.96). No other event met the rule.
+- Reporting clock: 26 of 59 serious reports were sent after the 15-day limit in the Indian MAH guidance. The submission dates are invented.
+- A draft periodic safety report, a risk management plan summary, a label change proposal, a letter to prescribers and a dossier tracker, all built from the same data.
+
+## Limits
+- All data is invented and no real patient is involved.
+- The Indian MAH guidance gives no route or timeline for label changes or letters to prescribers, so the documents record this gap and do not guess.
+- A reference is only treated as looked up when the references register has a date checked. Others are not relied on.
+- This is a learning project. It is not work experience and has not been reviewed by a regulatory expert.
+
+## Check everything
+Run `python tools/run_all_checks.py`. It runs every checker, checks that every document and reference mentioned exists in a register, re-runs the whole pipeline from scratch and confirms every output is identical.
+
+To rebuild by hand, run in this order: make_reports, qc_reports, score_qc, make_submission_log, reporting_clock, signal_detection, make_psur, check_docs, check_dossier, check_dhpc (all in the tools folder).
