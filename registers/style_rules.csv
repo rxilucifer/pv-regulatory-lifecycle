@@ -1,0 +1,9 @@
+phrase,preferred,reason
+side effect,adverse event or adverse reaction,Side effect hides whether a causal link was assessed
+complained of,reported,Neutral wording for what the reporter said
+suffered from,experienced,Neutral wording
+very serious,serious,Seriousness is yes or no
+severe,check the meaning,Severe describes intensity and serious describes the criteria met
+caused,is associated with,Do not state causality unless it was assessed
+obviously,delete,Filler
+clearly,delete,Filler
