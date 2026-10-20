@@ -1,0 +1,51 @@
+report_id,problem,note
+DMX-0501,duplicate,same details as an earlier report
+DMX-0502,duplicate,same details as an earlier report
+DMX-0503,duplicate,same details as an earlier report
+DMX-0504,duplicate,same details as an earlier report
+DMX-0505,duplicate,same details as an earlier report
+DMX-0506,duplicate,same details as an earlier report
+DMX-0507,duplicate,same details as an earlier report
+DMX-0508,duplicate,same details as an earlier report
+DMX-0509,duplicate,same details as an earlier report
+DMX-0510,duplicate,same details as an earlier report
+DMX-0511,duplicate,same details as an earlier report
+DMX-0512,duplicate,same details as an earlier report
+DMX-0072,missing_age,patient_age blank
+DMX-0079,missing_age,patient_age blank
+DMX-0163,missing_age,patient_age blank
+DMX-0219,missing_age,patient_age blank
+DMX-0224,missing_age,patient_age blank
+DMX-0246,missing_age,patient_age blank
+DMX-0322,missing_age,patient_age blank
+DMX-0366,missing_age,patient_age blank
+DMX-0466,missing_age,patient_age blank
+DMX-0498,missing_age,patient_age blank
+DMX-0024,missing_onset,onset_date blank
+DMX-0229,missing_onset,onset_date blank
+DMX-0248,missing_onset,onset_date blank
+DMX-0296,missing_onset,onset_date blank
+DMX-0320,missing_onset,onset_date blank
+DMX-0443,missing_onset,onset_date blank
+DMX-0445,missing_onset,onset_date blank
+DMX-0479,missing_onset,onset_date blank
+DMX-0083,impossible_age,age outside 18-100
+DMX-0284,impossible_age,age outside 18-100
+DMX-0300,impossible_age,age outside 18-100
+DMX-0407,impossible_age,age outside 18-100
+DMX-0179,onset_before_start,event began before the drug was started
+DMX-0181,onset_before_start,event began before the drug was started
+DMX-0289,onset_before_start,event began before the drug was started
+DMX-0329,onset_before_start,event began before the drug was started
+DMX-0339,onset_before_start,event began before the drug was started
+DMX-0422,onset_before_start,event began before the drug was started
+DMX-0031,receipt_before_onset,report received before the event began
+DMX-0127,receipt_before_onset,report received before the event began
+DMX-0317,receipt_before_onset,report received before the event began
+DMX-0484,receipt_before_onset,report received before the event began
+DMX-0485,receipt_before_onset,report received before the event began
+DMX-0321,seriousness_conflict,marked not serious but outcome is Fatal
+DMX-0390,seriousness_conflict,marked not serious but outcome is Fatal
+DMX-0404,seriousness_conflict,marked not serious but outcome is Fatal
+DMX-0465,seriousness_conflict,marked not serious but outcome is Fatal
+DMX-0468,seriousness_conflict,marked not serious but outcome is Fatal
