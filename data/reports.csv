@@ -1,0 +1,513 @@
+report_id,receipt_date,patient_age,sex,strength_mg,start_date,onset_date,event_term,serious,outcome,reporter_type
+DMX-0001,2025-11-28,49,F,25,2025-09-18,2025-10-28,Back pain,N,Recovering,Nurse
+DMX-0002,2025-10-03,53,F,25,2025-09-07,2025-09-19,Rash,N,Recovering,Patient
+DMX-0003,2026-03-18,60,M,25,2026-01-26,2026-02-16,Nausea,N,Not recovered,Nurse
+DMX-0004,2025-11-02,47,F,25,2025-07-10,2025-08-06,Headache,N,Unknown,Physician
+DMX-0005,2026-05-31,56,M,25,2026-03-16,2026-05-09,Rash,N,Recovered,Physician
+DMX-0006,2026-04-27,60,M,10,2025-12-03,2026-01-31,Vomiting,N,Recovered,Pharmacist
+DMX-0007,2026-06-25,50,F,10,2026-03-22,2026-04-15,Nausea,N,Unknown,Patient
+DMX-0008,2026-01-11,38,F,10,2025-09-11,2025-10-30,Urinary tract infection,N,Unknown,Physician
+DMX-0009,2025-10-19,86,F,25,2025-07-01,2025-08-07,Rash,N,Recovered,Pharmacist
+DMX-0010,2025-12-07,50,M,25,2025-10-22,2025-11-02,Headache,N,Recovered,Pharmacist
+DMX-0011,2026-05-06,74,M,10,2025-12-20,2026-02-14,Rash,N,Recovering,Pharmacist
+DMX-0012,2026-06-18,69,M,25,2026-03-31,2026-05-06,Nausea,N,Unknown,Nurse
+DMX-0013,2026-03-28,45,M,25,2026-02-20,2026-02-26,Cough,N,Recovered,Physician
+DMX-0014,2026-01-23,31,F,25,2025-09-12,2025-10-27,Rash,N,Recovered,Pharmacist
+DMX-0015,2026-01-26,40,F,25,2025-10-02,2025-11-29,Cough,N,Unknown,Pharmacist
+DMX-0016,2026-05-09,62,F,10,2026-01-11,2026-02-10,Headache,Y,Recovering,Physician
+DMX-0017,2026-04-10,60,M,10,2026-01-18,2026-03-03,Rash,N,Unknown,Physician
+DMX-0018,2025-10-01,42,M,10,2025-08-02,2025-09-17,Headache,N,Not recovered,Physician
+DMX-0019,2025-08-08,71,F,25,2025-06-04,2025-06-21,Rash,Y,Not recovered,Pharmacist
+DMX-0020,2026-08-15,75,F,10,2026-03-28,2026-05-19,Nausea,N,Recovered,Physician
+DMX-0021,2025-09-06,87,M,10,2025-06-07,2025-06-30,Diarrhoea,N,Recovering,Pharmacist
+DMX-0022,2026-07-26,55,M,10,2026-03-20,2026-05-06,Nausea,N,Unknown,Pharmacist
+DMX-0023,2025-12-02,55,M,10,2025-09-29,2025-10-11,Headache,N,Recovered,Physician
+DMX-0024,2026-03-13,51,M,10,2026-01-27,,Urinary tract infection,N,Recovering,Patient
+DMX-0025,2025-10-06,48,F,25,2025-09-06,2025-09-29,Constipation,N,Recovering,Patient
+DMX-0026,2026-03-29,58,F,10,2025-12-07,2026-01-27,Insomnia,N,Unknown,Patient
+DMX-0027,2025-10-09,55,F,10,2025-06-23,2025-08-18,Hypoglycaemia,Y,Recovered,Patient
+DMX-0028,2025-10-18,52,M,10,2025-07-24,2025-09-22,Headache,N,Recovering,Nurse
+DMX-0029,2026-01-24,40,F,10,2025-12-21,2025-12-31,Headache,N,Recovering,Patient
+DMX-0030,2025-09-29,77,M,10,2025-06-06,2025-07-26,Nausea,N,Recovering,Pharmacist
+DMX-0031,2025-12-19,47,F,10,2025-12-16,2025-12-24,Cough,N,Recovered,Patient
+DMX-0032,2025-10-25,70,M,25,2025-08-24,2025-10-13,Insomnia,N,Recovered,Patient
+DMX-0033,2025-08-18,60,F,10,2025-07-23,2025-07-25,Insomnia,N,Not recovered,Nurse
+DMX-0034,2025-08-18,27,M,10,2025-07-15,2025-07-29,Cough,Y,Recovered,Physician
+DMX-0035,2026-05-15,45,F,25,2026-02-11,2026-03-12,Nausea,N,Recovered,Nurse
+DMX-0036,2025-12-08,48,F,10,2025-11-12,2025-11-16,Nausea,N,Unknown,Patient
+DMX-0037,2026-02-03,58,M,25,2025-11-19,2025-12-13,Urinary tract infection,N,Recovering,Nurse
+DMX-0038,2025-10-04,85,F,25,2025-08-14,2025-09-30,Nausea,N,Recovering,Nurse
+DMX-0039,2026-02-20,61,M,10,2025-12-20,2026-02-16,Nausea,N,Recovering,Physician
+DMX-0040,2026-01-17,73,F,25,2025-09-13,2025-11-04,Back pain,N,Not recovered,Pharmacist
+DMX-0041,2026-04-21,69,F,10,2026-02-26,2026-03-30,Back pain,N,Recovered,Patient
+DMX-0042,2025-12-18,50,M,25,2025-09-29,2025-10-20,Back pain,N,Recovered,Nurse
+DMX-0043,2026-03-15,56,F,25,2025-12-05,2025-12-29,Constipation,N,Recovered,Patient
+DMX-0044,2025-12-13,54,M,25,2025-09-20,2025-10-03,Headache,N,Unknown,Nurse
+DMX-0045,2025-12-08,61,M,10,2025-09-02,2025-10-13,Fatigue,N,Recovering,Nurse
+DMX-0046,2025-11-02,39,F,10,2025-09-24,2025-10-23,Diarrhoea,Y,Recovered,Pharmacist
+DMX-0047,2025-10-12,59,F,10,2025-07-12,2025-08-02,Hypoglycaemia,N,Recovered,Pharmacist
+DMX-0048,2026-05-03,33,M,10,2026-03-24,2026-04-20,Headache,N,Not recovered,Patient
+DMX-0049,2025-09-24,32,F,25,2025-07-26,2025-08-13,Rash,N,Not recovered,Patient
+DMX-0050,2025-09-12,80,M,10,2025-08-21,2025-08-30,Headache,N,Recovered,Pharmacist
+DMX-0051,2025-11-26,57,F,25,2025-08-22,2025-10-18,Rash,N,Unknown,Physician
+DMX-0052,2025-11-20,32,F,10,2025-10-21,2025-10-25,Fatigue,N,Recovering,Patient
+DMX-0053,2025-10-23,66,F,10,2025-09-08,2025-10-10,Nausea,N,Recovered,Patient
+DMX-0054,2025-08-30,59,M,25,2025-07-21,2025-08-24,Hypoglycaemia,N,Recovering,Pharmacist
+DMX-0055,2026-02-27,53,F,25,2026-01-17,2026-01-30,Nausea,N,Recovered,Pharmacist
+DMX-0056,2025-07-31,48,F,25,2025-07-13,2025-07-22,Headache,N,Recovering,Patient
+DMX-0057,2025-11-20,66,F,25,2025-10-29,2025-11-11,Headache,N,Recovered,Nurse
+DMX-0058,2025-09-28,45,M,10,2025-08-01,2025-09-17,Hypoglycaemia,Y,Recovered,Nurse
+DMX-0059,2026-05-26,44,F,10,2026-03-12,2026-03-21,Nausea,N,Recovered,Patient
+DMX-0060,2026-05-10,43,F,25,2026-01-12,2026-02-19,Cough,N,Recovered,Pharmacist
+DMX-0061,2025-10-16,47,M,25,2025-09-25,2025-10-09,Diarrhoea,N,Recovering,Physician
+DMX-0062,2025-12-09,47,M,25,2025-10-08,2025-11-05,Headache,N,Recovered,Physician
+DMX-0063,2026-06-29,66,M,10,2026-02-25,2026-04-12,Constipation,N,Recovered,Nurse
+DMX-0064,2026-02-15,55,F,10,2025-12-05,2025-12-20,Nausea,N,Recovered,Patient
+DMX-0065,2025-12-11,69,F,25,2025-10-25,2025-11-30,Back pain,N,Not recovered,Physician
+DMX-0066,2025-08-09,58,M,10,2025-06-09,2025-07-04,Nausea,N,Not recovered,Physician
+DMX-0067,2026-02-10,61,M,25,2025-10-20,2025-11-25,Urinary tract infection,N,Recovering,Pharmacist
+DMX-0068,2026-01-19,82,F,25,2025-10-04,2025-12-01,Back pain,N,Recovering,Physician
+DMX-0069,2026-04-19,55,F,25,2026-02-06,2026-03-25,Fatigue,N,Recovered,Nurse
+DMX-0070,2026-07-08,73,M,10,2026-03-14,2026-04-26,Urinary tract infection,N,Not recovered,Nurse
+DMX-0071,2025-12-06,52,M,10,2025-09-28,2025-10-23,Diarrhoea,N,Unknown,Nurse
+DMX-0072,2026-04-07,,F,25,2025-12-09,2026-01-25,Rash,N,Not recovered,Nurse
+DMX-0073,2026-07-22,44,M,10,2026-03-25,2026-04-28,Headache,N,Recovered,Physician
+DMX-0074,2025-10-08,55,F,10,2025-07-20,2025-08-05,Rash,Y,Not recovered,Physician
+DMX-0075,2026-02-21,57,F,10,2025-10-08,2025-12-05,Vomiting,N,Unknown,Nurse
+DMX-0076,2025-08-17,48,M,10,2025-06-24,2025-07-27,Diarrhoea,N,Unknown,Patient
+DMX-0077,2025-11-18,38,M,10,2025-09-14,2025-10-25,Nausea,N,Recovered,Pharmacist
+DMX-0078,2025-10-22,71,F,25,2025-09-28,2025-10-11,Rash,N,Recovering,Patient
+DMX-0079,2025-12-22,,F,25,2025-10-22,2025-11-15,Nausea,N,Recovering,Patient
+DMX-0080,2025-08-19,61,M,10,2025-07-07,2025-08-06,Dizziness,Y,Recovered,Nurse
+DMX-0081,2025-12-18,49,M,25,2025-09-25,2025-09-28,Rash,N,Recovered,Pharmacist
+DMX-0082,2026-04-16,63,F,10,2026-01-31,2026-03-20,Diarrhoea,N,Recovered,Physician
+DMX-0083,2025-09-18,0,F,25,2025-07-20,2025-07-31,Hypoglycaemia,N,Unknown,Pharmacist
+DMX-0084,2025-09-02,61,M,25,2025-07-27,2025-08-28,Back pain,N,Unknown,Patient
+DMX-0085,2025-10-13,32,M,25,2025-07-21,2025-07-29,Urinary tract infection,N,Recovering,Physician
+DMX-0086,2026-03-24,66,F,10,2025-12-16,2026-01-04,Nausea,N,Not recovered,Physician
+DMX-0087,2026-02-17,90,F,10,2025-12-20,2026-02-06,Insomnia,N,Unknown,Nurse
+DMX-0088,2025-10-29,65,M,10,2025-07-25,2025-08-17,Constipation,N,Recovered,Pharmacist
+DMX-0089,2025-08-09,78,F,10,2025-06-10,2025-07-14,Diarrhoea,N,Recovering,Nurse
+DMX-0090,2025-12-06,69,M,25,2025-07-26,2025-09-15,Rash,Y,Recovered,Patient
+DMX-0091,2026-03-28,68,M,10,2026-01-18,2026-01-20,Nausea,N,Recovering,Pharmacist
+DMX-0092,2026-04-08,58,M,25,2026-01-28,2026-02-20,Insomnia,N,Unknown,Nurse
+DMX-0093,2025-09-01,48,M,25,2025-07-13,2025-08-11,Rash,N,Recovered,Nurse
+DMX-0094,2026-02-03,71,F,10,2025-12-12,2026-01-17,Insomnia,N,Recovering,Nurse
+DMX-0095,2025-12-26,42,F,25,2025-11-12,2025-11-15,Headache,N,Recovering,Physician
+DMX-0096,2026-06-04,31,M,25,2026-03-14,2026-04-24,Headache,N,Recovered,Physician
+DMX-0097,2026-01-31,81,F,10,2025-12-04,2025-12-28,Rash,N,Recovered,Physician
+DMX-0098,2025-11-18,33,F,25,2025-09-13,2025-11-03,Dizziness,N,Recovered,Physician
+DMX-0099,2026-03-06,76,M,25,2025-12-26,2026-02-23,Headache,N,Recovered,Patient
+DMX-0100,2026-04-16,39,M,10,2025-12-29,2026-01-21,Insomnia,N,Recovering,Physician
+DMX-0101,2026-02-04,70,M,10,2025-10-24,2025-11-26,Headache,N,Recovered,Nurse
+DMX-0102,2025-12-31,54,M,25,2025-10-04,2025-11-11,Insomnia,N,Recovering,Patient
+DMX-0103,2025-09-03,85,F,10,2025-07-28,2025-08-22,Dizziness,Y,Recovered,Nurse
+DMX-0104,2025-10-10,64,F,25,2025-07-16,2025-09-03,Urinary tract infection,N,Recovered,Physician
+DMX-0105,2025-08-04,65,M,25,2025-07-04,2025-07-27,Insomnia,N,Recovering,Nurse
+DMX-0106,2026-05-25,79,F,10,2026-02-06,2026-02-25,Diarrhoea,N,Recovered,Pharmacist
+DMX-0107,2026-01-03,55,M,10,2025-09-08,2025-10-15,Cough,Y,Recovering,Nurse
+DMX-0108,2026-01-26,44,F,10,2025-12-30,2026-01-22,Urinary tract infection,N,Recovering,Nurse
+DMX-0109,2026-06-01,70,M,10,2026-02-20,2026-04-09,Diarrhoea,N,Unknown,Patient
+DMX-0110,2025-11-01,63,M,25,2025-07-31,2025-09-15,Hypoglycaemia,N,Recovered,Pharmacist
+DMX-0111,2026-05-12,60,M,10,2026-01-19,2026-02-14,Constipation,N,Recovered,Physician
+DMX-0112,2025-08-05,73,M,10,2025-06-25,2025-07-20,Hypoglycaemia,N,Recovering,Physician
+DMX-0113,2026-05-02,59,M,25,2026-02-03,2026-03-31,Headache,N,Recovering,Pharmacist
+DMX-0114,2026-04-24,43,M,10,2026-02-28,2026-04-17,Nausea,N,Recovered,Physician
+DMX-0115,2025-09-14,48,M,25,2025-06-29,2025-08-20,Fatigue,N,Recovered,Patient
+DMX-0116,2025-12-03,54,M,25,2025-09-05,2025-10-31,Rash,Y,Not recovered,Patient
+DMX-0117,2026-03-23,52,F,25,2025-12-18,2026-02-04,Hypoglycaemia,N,Recovering,Patient
+DMX-0118,2025-11-08,67,M,10,2025-07-19,2025-08-19,Vomiting,N,Recovered,Patient
+DMX-0119,2026-03-20,56,F,10,2025-12-21,2026-02-09,Headache,N,Unknown,Pharmacist
+DMX-0120,2026-04-15,66,M,25,2026-02-11,2026-03-02,Fatigue,N,Recovered,Nurse
+DMX-0121,2025-11-10,61,M,25,2025-07-23,2025-09-03,Urinary tract infection,N,Recovered,Nurse
+DMX-0122,2025-07-16,82,F,25,2025-06-03,2025-06-30,Back pain,N,Unknown,Pharmacist
+DMX-0123,2026-06-01,75,F,10,2026-03-16,2026-04-22,Diarrhoea,N,Recovered,Patient
+DMX-0124,2025-09-03,48,M,10,2025-06-07,2025-07-23,Headache,N,Recovered,Physician
+DMX-0125,2026-03-24,48,M,25,2026-01-24,2026-02-25,Dizziness,N,Unknown,Patient
+DMX-0126,2026-01-29,74,F,25,2025-12-11,2026-01-04,Rash,N,Unknown,Patient
+DMX-0127,2026-03-15,79,F,25,2026-03-16,2026-03-20,Headache,N,Recovering,Pharmacist
+DMX-0128,2025-09-03,30,M,10,2025-06-28,2025-07-09,Headache,N,Recovering,Pharmacist
+DMX-0129,2026-04-24,55,M,25,2025-12-28,2026-02-05,Cough,N,Recovering,Patient
+DMX-0130,2025-10-26,74,F,25,2025-08-29,2025-10-14,Nausea,Y,Not recovered,Nurse
+DMX-0131,2026-04-04,28,F,25,2026-02-25,2026-02-27,Diarrhoea,N,Recovered,Patient
+DMX-0132,2025-12-07,73,M,10,2025-10-02,2025-10-28,Back pain,N,Recovered,Patient
+DMX-0133,2026-01-01,56,M,25,2025-09-30,2025-11-17,Diarrhoea,N,Recovered,Pharmacist
+DMX-0134,2026-02-15,62,M,25,2025-12-06,2025-12-13,Headache,Y,Recovering,Nurse
+DMX-0135,2025-11-25,60,M,25,2025-09-27,2025-10-27,Back pain,N,Recovered,Physician
+DMX-0136,2026-02-10,49,F,25,2025-12-19,2026-01-18,Nausea,N,Not recovered,Patient
+DMX-0137,2026-03-10,62,M,25,2025-12-24,2026-02-19,Nausea,N,Recovered,Nurse
+DMX-0138,2026-02-11,49,M,10,2025-12-01,2025-12-04,Dizziness,N,Unknown,Patient
+DMX-0139,2025-08-22,67,M,10,2025-06-10,2025-07-30,Nausea,N,Not recovered,Patient
+DMX-0140,2025-10-27,77,M,10,2025-09-30,2025-10-08,Urinary tract infection,N,Recovering,Patient
+DMX-0141,2026-06-04,35,M,10,2026-02-28,2026-03-14,Dizziness,N,Unknown,Patient
+DMX-0142,2025-08-10,66,M,25,2025-07-09,2025-07-11,Dizziness,N,Recovered,Pharmacist
+DMX-0143,2026-04-25,53,F,10,2026-01-13,2026-02-19,Hypoglycaemia,N,Unknown,Physician
+DMX-0144,2026-06-29,60,M,10,2026-03-08,2026-04-06,Constipation,N,Recovered,Nurse
+DMX-0145,2026-05-08,81,M,10,2025-12-30,2026-02-13,Fatigue,N,Unknown,Nurse
+DMX-0146,2026-05-01,66,M,25,2026-01-11,2026-03-05,Rash,N,Recovered,Patient
+DMX-0147,2025-09-23,49,F,25,2025-06-16,2025-07-05,Nausea,Y,Unknown,Physician
+DMX-0148,2026-02-09,42,M,10,2025-12-05,2026-01-11,Hypoglycaemia,N,Not recovered,Physician
+DMX-0149,2026-01-10,50,F,25,2025-12-10,2025-12-27,Headache,N,Not recovered,Nurse
+DMX-0150,2026-06-03,38,F,10,2026-03-28,2026-05-06,Nausea,N,Not recovered,Physician
+DMX-0151,2026-02-25,41,F,10,2026-01-27,2026-02-05,Nausea,N,Recovered,Patient
+DMX-0152,2025-11-07,31,F,10,2025-08-06,2025-08-13,Dizziness,N,Recovering,Nurse
+DMX-0153,2026-02-19,46,M,10,2026-01-05,2026-01-28,Nausea,N,Not recovered,Nurse
+DMX-0154,2025-11-27,71,F,10,2025-09-20,2025-11-13,Hypoglycaemia,N,Unknown,Patient
+DMX-0155,2025-11-18,77,F,25,2025-10-06,2025-10-16,Rash,Y,Recovered,Nurse
+DMX-0156,2025-10-07,48,F,25,2025-07-01,2025-08-19,Headache,N,Not recovered,Patient
+DMX-0157,2025-10-31,45,M,25,2025-07-12,2025-08-08,Nausea,N,Recovered,Physician
+DMX-0158,2025-08-03,66,F,10,2025-06-23,2025-07-13,Headache,N,Recovered,Patient
+DMX-0159,2026-03-31,69,M,10,2025-12-04,2026-01-25,Cough,N,Unknown,Patient
+DMX-0160,2025-11-21,89,F,25,2025-10-27,2025-10-30,Headache,N,Recovered,Patient
+DMX-0161,2026-04-24,30,M,25,2026-03-12,2026-03-16,Fatigue,N,Unknown,Patient
+DMX-0162,2025-12-23,54,M,25,2025-08-17,2025-10-04,Urinary tract infection,N,Recovering,Physician
+DMX-0163,2025-09-25,,M,25,2025-08-09,2025-09-04,Rash,Y,Unknown,Nurse
+DMX-0164,2026-04-11,44,F,25,2026-01-11,2026-01-29,Headache,Y,Recovering,Pharmacist
+DMX-0165,2025-10-23,67,M,10,2025-08-29,2025-10-15,Nausea,N,Recovered,Patient
+DMX-0166,2026-05-01,48,M,25,2025-12-22,2026-02-17,Constipation,N,Recovered,Physician
+DMX-0167,2026-07-06,38,F,10,2026-03-19,2026-05-06,Diarrhoea,N,Not recovered,Physician
+DMX-0168,2026-04-13,73,F,10,2025-12-16,2026-01-15,Constipation,N,Recovering,Pharmacist
+DMX-0169,2026-01-25,58,M,25,2025-11-24,2026-01-01,Urinary tract infection,N,Recovering,Pharmacist
+DMX-0170,2026-02-01,54,F,25,2025-10-24,2025-11-22,Vomiting,N,Recovered,Physician
+DMX-0171,2026-04-03,64,F,25,2026-01-19,2026-03-05,Fatigue,N,Recovered,Pharmacist
+DMX-0172,2025-11-03,43,M,25,2025-07-25,2025-09-11,Headache,N,Recovering,Physician
+DMX-0173,2026-03-03,51,M,10,2025-12-26,2025-12-30,Insomnia,N,Recovered,Patient
+DMX-0174,2026-06-18,50,M,25,2026-01-30,2026-03-30,Headache,N,Not recovered,Pharmacist
+DMX-0175,2026-04-06,66,F,25,2026-02-27,2026-03-10,Rash,Y,Not recovered,Nurse
+DMX-0176,2025-12-25,56,F,10,2025-10-16,2025-12-15,Insomnia,N,Recovered,Pharmacist
+DMX-0177,2025-10-29,81,M,10,2025-07-08,2025-08-06,Dizziness,Y,Not recovered,Physician
+DMX-0178,2026-07-13,69,M,25,2026-03-04,2026-04-24,Rash,N,Recovered,Nurse
+DMX-0179,2026-05-23,40,F,25,2026-03-13,2026-03-03,Headache,N,Recovering,Patient
+DMX-0180,2026-03-03,87,F,25,2025-11-26,2026-01-21,Urinary tract infection,N,Recovered,Pharmacist
+DMX-0181,2025-12-17,48,F,10,2025-10-27,2025-10-17,Nausea,N,Recovered,Patient
+DMX-0182,2025-11-01,55,F,10,2025-07-26,2025-08-18,Urinary tract infection,N,Recovered,Nurse
+DMX-0183,2025-10-04,48,M,25,2025-06-14,2025-07-19,Cough,N,Recovering,Patient
+DMX-0184,2025-12-14,63,F,10,2025-12-02,2025-12-09,Dizziness,N,Recovered,Nurse
+DMX-0185,2026-04-24,47,F,10,2026-02-08,2026-02-17,Nausea,N,Recovered,Physician
+DMX-0186,2025-08-15,67,F,25,2025-07-11,2025-07-14,Nausea,N,Recovered,Patient
+DMX-0187,2025-09-04,45,F,10,2025-06-21,2025-08-13,Hypoglycaemia,Y,Recovered,Pharmacist
+DMX-0188,2025-12-11,42,F,25,2025-10-21,2025-10-31,Headache,N,Recovering,Patient
+DMX-0189,2025-09-06,35,M,25,2025-06-17,2025-07-10,Rash,Y,Recovering,Pharmacist
+DMX-0190,2025-11-24,90,F,25,2025-09-10,2025-09-27,Rash,Y,Not recovered,Pharmacist
+DMX-0191,2025-10-04,66,F,10,2025-06-10,2025-07-10,Back pain,N,Recovered,Physician
+DMX-0192,2025-10-16,75,F,10,2025-06-21,2025-08-02,Nausea,N,Recovered,Physician
+DMX-0193,2026-03-14,57,M,25,2025-12-15,2026-01-19,Headache,N,Not recovered,Physician
+DMX-0194,2026-06-16,70,M,25,2026-02-22,2026-04-13,Nausea,Y,Recovered,Nurse
+DMX-0195,2026-01-13,58,M,25,2025-10-22,2025-11-03,Rash,N,Unknown,Physician
+DMX-0196,2026-04-05,59,F,10,2026-01-05,2026-02-18,Fatigue,N,Recovered,Nurse
+DMX-0197,2026-03-02,67,F,10,2025-12-10,2026-01-29,Headache,N,Recovered,Nurse
+DMX-0198,2025-10-07,64,F,25,2025-06-02,2025-07-26,Hypoglycaemia,N,Recovered,Patient
+DMX-0199,2025-09-17,54,M,25,2025-07-28,2025-08-08,Urinary tract infection,N,Recovered,Pharmacist
+DMX-0200,2026-02-02,58,F,10,2025-11-24,2026-01-23,Nausea,N,Recovered,Physician
+DMX-0201,2026-03-06,70,M,10,2026-01-17,2026-02-08,Nausea,N,Recovered,Patient
+DMX-0202,2025-08-03,52,F,25,2025-06-11,2025-07-04,Headache,N,Recovering,Patient
+DMX-0203,2026-06-13,48,F,25,2026-02-26,2026-04-22,Insomnia,N,Recovered,Physician
+DMX-0204,2026-04-18,43,F,25,2026-01-17,2026-02-23,Fatigue,N,Not recovered,Nurse
+DMX-0205,2026-03-05,47,F,10,2026-01-08,2026-01-13,Fatigue,N,Recovering,Physician
+DMX-0206,2025-10-30,78,F,25,2025-09-03,2025-10-11,Rash,N,Not recovered,Nurse
+DMX-0207,2025-08-13,75,M,25,2025-06-21,2025-07-05,Rash,Y,Recovered,Patient
+DMX-0208,2026-04-22,68,M,25,2025-12-30,2026-02-13,Fatigue,N,Recovered,Nurse
+DMX-0209,2025-11-26,53,M,10,2025-10-16,2025-11-06,Nausea,N,Recovering,Nurse
+DMX-0210,2026-01-03,53,F,10,2025-10-30,2025-11-28,Nausea,N,Recovering,Nurse
+DMX-0211,2026-03-21,46,F,10,2025-12-21,2026-02-01,Cough,N,Not recovered,Nurse
+DMX-0212,2026-03-28,66,M,10,2025-11-21,2026-01-20,Headache,N,Unknown,Patient
+DMX-0213,2026-03-04,73,F,10,2025-11-18,2026-01-12,Headache,N,Not recovered,Physician
+DMX-0214,2026-08-04,67,M,10,2026-03-23,2026-05-20,Headache,N,Recovering,Pharmacist
+DMX-0215,2026-03-01,59,M,25,2025-11-21,2026-01-06,Dizziness,N,Recovered,Pharmacist
+DMX-0216,2025-11-03,56,F,10,2025-08-05,2025-09-11,Back pain,N,Not recovered,Physician
+DMX-0217,2026-03-22,59,M,25,2026-02-12,2026-03-19,Headache,N,Recovered,Pharmacist
+DMX-0218,2025-08-27,46,M,25,2025-07-13,2025-08-12,Nausea,N,Recovered,Patient
+DMX-0219,2026-06-14,,F,25,2026-03-19,2026-03-21,Rash,N,Unknown,Pharmacist
+DMX-0220,2025-11-13,68,M,25,2025-09-10,2025-09-30,Rash,Y,Recovered,Physician
+DMX-0221,2025-10-14,90,F,25,2025-08-15,2025-08-27,Hypoglycaemia,N,Recovered,Patient
+DMX-0222,2025-10-28,55,F,10,2025-08-08,2025-09-25,Back pain,N,Unknown,Physician
+DMX-0223,2025-10-19,47,F,25,2025-06-23,2025-08-15,Headache,N,Recovered,Patient
+DMX-0224,2025-12-06,,F,25,2025-09-21,2025-10-27,Diarrhoea,N,Recovering,Nurse
+DMX-0225,2026-05-18,50,M,25,2026-02-26,2026-04-08,Nausea,N,Recovered,Patient
+DMX-0226,2026-01-20,68,M,10,2025-11-14,2025-11-26,Diarrhoea,N,Recovered,Pharmacist
+DMX-0227,2026-04-07,49,M,25,2025-12-02,2026-01-27,Nausea,N,Unknown,Physician
+DMX-0228,2026-03-14,75,M,25,2025-11-06,2025-12-19,Headache,N,Recovered,Pharmacist
+DMX-0229,2025-09-01,65,F,25,2025-06-22,,Diarrhoea,N,Not recovered,Physician
+DMX-0230,2025-12-05,69,F,10,2025-09-29,2025-11-24,Urinary tract infection,N,Recovered,Patient
+DMX-0231,2026-06-10,66,M,25,2026-03-05,2026-03-15,Rash,Y,Recovering,Pharmacist
+DMX-0232,2026-01-12,64,M,25,2025-11-04,2025-11-15,Headache,N,Unknown,Pharmacist
+DMX-0233,2025-11-29,77,M,25,2025-09-01,2025-09-11,Nausea,N,Recovered,Patient
+DMX-0234,2026-02-03,67,F,25,2025-10-16,2025-12-09,Rash,N,Recovered,Patient
+DMX-0235,2025-12-30,63,M,10,2025-10-09,2025-11-09,Fatigue,N,Unknown,Physician
+DMX-0236,2025-12-04,58,M,10,2025-08-24,2025-09-09,Cough,N,Unknown,Patient
+DMX-0237,2026-06-04,82,F,25,2026-02-17,2026-03-07,Urinary tract infection,N,Unknown,Physician
+DMX-0238,2025-11-10,65,F,25,2025-08-27,2025-09-03,Rash,N,Recovered,Nurse
+DMX-0239,2025-11-26,48,F,25,2025-09-03,2025-10-24,Back pain,N,Recovering,Nurse
+DMX-0240,2025-10-13,83,M,25,2025-08-09,2025-09-07,Constipation,N,Not recovered,Pharmacist
+DMX-0241,2026-04-19,64,M,25,2026-03-27,2026-04-14,Nausea,N,Unknown,Physician
+DMX-0242,2026-05-27,48,M,25,2026-03-29,2026-04-19,Nausea,N,Recovered,Physician
+DMX-0243,2025-09-13,58,M,25,2025-06-18,2025-07-05,Fatigue,N,Not recovered,Patient
+DMX-0244,2026-04-06,43,F,10,2026-01-13,2026-01-16,Dizziness,N,Recovering,Pharmacist
+DMX-0245,2026-03-06,37,M,25,2025-10-28,2025-12-18,Nausea,N,Recovering,Pharmacist
+DMX-0246,2025-09-29,,M,10,2025-07-13,2025-09-08,Headache,N,Recovered,Nurse
+DMX-0247,2025-10-06,55,F,10,2025-06-29,2025-07-31,Headache,N,Recovered,Pharmacist
+DMX-0248,2026-04-09,48,M,10,2026-02-06,,Dizziness,N,Recovered,Patient
+DMX-0249,2025-10-24,66,F,10,2025-06-23,2025-07-27,Fatigue,N,Recovered,Pharmacist
+DMX-0250,2025-11-13,44,M,10,2025-07-20,2025-08-21,Cough,N,Recovering,Patient
+DMX-0251,2026-02-01,37,F,10,2025-12-22,2025-12-31,Nausea,N,Unknown,Patient
+DMX-0252,2025-09-14,74,F,25,2025-06-29,2025-07-16,Rash,N,Recovered,Nurse
+DMX-0253,2026-06-15,57,F,25,2026-02-26,2026-04-22,Rash,N,Not recovered,Patient
+DMX-0254,2026-02-10,30,F,10,2026-01-24,2026-02-01,Fatigue,N,Not recovered,Patient
+DMX-0255,2025-11-25,49,F,25,2025-09-25,2025-10-08,Cough,N,Not recovered,Physician
+DMX-0256,2026-03-11,69,F,25,2025-12-10,2026-01-29,Rash,N,Recovered,Physician
+DMX-0257,2026-05-07,79,F,25,2026-03-10,2026-04-10,Rash,Y,Unknown,Pharmacist
+DMX-0258,2026-07-09,58,M,25,2026-02-14,2026-04-10,Constipation,N,Recovered,Physician
+DMX-0259,2025-11-16,90,M,10,2025-08-22,2025-09-01,Hypoglycaemia,N,Recovering,Patient
+DMX-0260,2025-09-03,56,F,25,2025-07-24,2025-07-29,Nausea,N,Unknown,Patient
+DMX-0261,2026-02-05,78,M,25,2025-12-13,2026-01-26,Back pain,N,Recovered,Physician
+DMX-0262,2025-11-24,61,F,25,2025-10-15,2025-10-17,Nausea,N,Recovered,Patient
+DMX-0263,2026-01-06,65,M,25,2025-09-23,2025-11-13,Rash,Y,Recovering,Nurse
+DMX-0264,2026-01-17,56,M,25,2025-11-27,2025-12-12,Fatigue,Y,Recovering,Pharmacist
+DMX-0265,2026-02-24,48,M,10,2025-11-16,2025-12-25,Cough,Y,Unknown,Pharmacist
+DMX-0266,2026-07-31,49,M,25,2026-03-30,2026-05-24,Nausea,N,Recovered,Pharmacist
+DMX-0267,2026-02-13,41,F,25,2025-11-07,2025-12-24,Nausea,N,Not recovered,Physician
+DMX-0268,2026-01-12,56,M,10,2025-10-11,2025-10-30,Vomiting,N,Recovered,Patient
+DMX-0269,2025-09-12,62,F,10,2025-07-14,2025-07-28,Fatigue,N,Not recovered,Physician
+DMX-0270,2026-02-14,60,F,10,2025-12-22,2026-01-22,Constipation,N,Recovered,Pharmacist
+DMX-0271,2025-10-16,54,M,25,2025-08-02,2025-08-23,Nausea,N,Recovering,Pharmacist
+DMX-0272,2026-02-15,64,M,10,2025-10-21,2025-12-10,Insomnia,N,Recovered,Pharmacist
+DMX-0273,2025-12-15,18,M,10,2025-09-26,2025-11-23,Back pain,N,Recovering,Patient
+DMX-0274,2025-10-19,43,F,25,2025-08-31,2025-09-03,Vomiting,N,Unknown,Nurse
+DMX-0275,2025-11-08,55,M,25,2025-08-06,2025-09-23,Headache,Y,Recovered,Pharmacist
+DMX-0276,2026-04-03,51,F,10,2025-12-30,2026-02-08,Headache,N,Recovered,Patient
+DMX-0277,2026-05-19,61,F,10,2026-02-25,2026-04-01,Nausea,N,Recovering,Physician
+DMX-0278,2025-09-14,59,F,10,2025-07-01,2025-08-21,Nausea,N,Recovered,Physician
+DMX-0279,2025-11-15,35,M,25,2025-09-22,2025-10-14,Headache,N,Recovered,Patient
+DMX-0280,2026-05-16,75,M,25,2026-03-16,2026-03-29,Cough,N,Recovering,Physician
+DMX-0281,2026-03-05,53,M,10,2025-12-16,2026-02-01,Fatigue,N,Recovered,Physician
+DMX-0282,2026-04-12,43,F,25,2026-01-10,2026-01-21,Cough,N,Recovered,Patient
+DMX-0283,2025-12-20,64,M,10,2025-08-24,2025-10-09,Headache,N,Recovering,Physician
+DMX-0284,2026-02-27,0,M,10,2025-11-18,2025-12-21,Urinary tract infection,N,Recovered,Pharmacist
+DMX-0285,2025-11-04,50,M,10,2025-07-05,2025-09-02,Diarrhoea,N,Not recovered,Nurse
+DMX-0286,2026-03-15,56,F,10,2026-02-14,2026-02-27,Hypoglycaemia,N,Recovered,Patient
+DMX-0287,2025-07-09,47,F,25,2025-06-03,2025-06-25,Diarrhoea,N,Not recovered,Patient
+DMX-0288,2026-01-17,76,F,10,2025-10-03,2025-11-18,Dizziness,N,Not recovered,Physician
+DMX-0289,2025-12-22,35,M,25,2025-09-15,2025-09-05,Back pain,N,Recovered,Physician
+DMX-0290,2025-10-15,44,F,10,2025-07-07,2025-07-31,Nausea,N,Recovered,Pharmacist
+DMX-0291,2026-04-02,49,M,10,2025-12-03,2026-01-11,Nausea,N,Recovering,Patient
+DMX-0292,2026-02-09,50,F,10,2025-10-21,2025-12-20,Headache,N,Recovered,Physician
+DMX-0293,2026-01-28,62,M,10,2025-11-15,2025-12-02,Insomnia,N,Recovered,Nurse
+DMX-0294,2026-02-09,65,M,25,2025-09-18,2025-11-17,Fatigue,N,Unknown,Pharmacist
+DMX-0295,2026-04-10,51,F,10,2026-01-24,2026-02-05,Headache,N,Recovered,Pharmacist
+DMX-0296,2026-01-07,45,M,10,2025-09-25,,Diarrhoea,N,Recovering,Pharmacist
+DMX-0297,2026-05-10,54,F,10,2026-03-20,2026-04-19,Diarrhoea,N,Recovered,Patient
+DMX-0298,2025-08-28,81,F,10,2025-06-17,2025-06-24,Headache,N,Not recovered,Patient
+DMX-0299,2025-09-15,53,M,25,2025-07-16,2025-08-05,Headache,N,Recovered,Patient
+DMX-0300,2026-01-05,212,F,10,2025-11-11,2025-12-08,Nausea,N,Unknown,Patient
+DMX-0301,2026-03-23,65,M,10,2026-01-06,2026-02-19,Urinary tract infection,N,Recovered,Patient
+DMX-0302,2025-10-15,60,M,10,2025-09-02,2025-09-27,Back pain,N,Unknown,Physician
+DMX-0303,2026-01-12,53,M,25,2025-10-25,2025-11-03,Constipation,N,Recovered,Pharmacist
+DMX-0304,2025-11-14,76,M,25,2025-09-04,2025-09-24,Fatigue,N,Recovered,Pharmacist
+DMX-0305,2025-09-28,56,F,10,2025-07-01,2025-07-08,Constipation,N,Recovered,Patient
+DMX-0306,2026-05-12,72,M,25,2026-01-25,2026-03-08,Rash,N,Recovered,Physician
+DMX-0307,2026-07-01,37,M,10,2026-03-30,2026-05-08,Vomiting,N,Not recovered,Physician
+DMX-0308,2026-04-16,59,F,10,2025-12-09,2026-01-28,Headache,N,Recovering,Patient
+DMX-0309,2026-03-08,46,M,25,2025-11-06,2025-12-13,Back pain,N,Recovered,Nurse
+DMX-0310,2025-11-27,57,F,25,2025-09-13,2025-10-20,Cough,Y,Recovered,Nurse
+DMX-0311,2025-12-15,52,M,10,2025-11-11,2025-11-25,Nausea,N,Not recovered,Nurse
+DMX-0312,2025-09-16,62,M,10,2025-06-07,2025-07-10,Fatigue,N,Not recovered,Nurse
+DMX-0313,2026-05-16,41,M,25,2026-01-19,2026-02-23,Headache,N,Recovered,Nurse
+DMX-0314,2026-03-19,49,F,10,2026-02-08,2026-03-08,Headache,Y,Recovering,Physician
+DMX-0315,2025-11-13,63,F,25,2025-10-14,2025-11-08,Rash,N,Recovered,Physician
+DMX-0316,2026-04-15,45,F,10,2026-02-09,2026-02-19,Nausea,N,Recovering,Patient
+DMX-0317,2025-10-29,54,F,10,2025-10-31,2025-11-03,Fatigue,Y,Recovered,Physician
+DMX-0318,2026-05-24,39,F,10,2026-03-24,2026-04-18,Constipation,N,Recovered,Nurse
+DMX-0319,2026-01-19,43,F,25,2025-10-28,2025-12-14,Back pain,N,Recovered,Physician
+DMX-0320,2026-04-07,58,M,10,2025-12-26,,Headache,N,Recovering,Patient
+DMX-0321,2025-09-14,50,F,25,2025-07-11,2025-07-27,Nausea,N,Fatal,Nurse
+DMX-0322,2026-06-14,,M,10,2026-03-23,2026-04-08,Fatigue,N,Recovering,Physician
+DMX-0323,2026-01-27,38,M,10,2025-12-21,2026-01-19,Dizziness,N,Unknown,Physician
+DMX-0324,2026-04-12,65,F,10,2026-01-27,2026-03-15,Nausea,N,Recovered,Physician
+DMX-0325,2025-08-16,69,F,10,2025-06-01,2025-07-24,Nausea,N,Recovered,Physician
+DMX-0326,2026-03-20,56,F,10,2026-01-29,2026-03-08,Dizziness,N,Recovered,Patient
+DMX-0327,2026-07-20,69,M,25,2026-03-05,2026-05-01,Headache,N,Recovering,Physician
+DMX-0328,2026-05-01,69,F,10,2026-02-09,2026-04-03,Nausea,N,Recovering,Nurse
+DMX-0329,2026-03-12,54,F,25,2026-02-02,2026-01-23,Hypoglycaemia,N,Recovering,Nurse
+DMX-0330,2026-01-16,75,M,10,2025-12-13,2025-12-21,Headache,N,Recovering,Patient
+DMX-0331,2026-04-04,61,M,10,2025-12-02,2026-01-12,Hypoglycaemia,N,Recovered,Patient
+DMX-0332,2025-12-24,43,M,10,2025-11-04,2025-11-29,Nausea,N,Not recovered,Patient
+DMX-0333,2025-11-06,43,M,10,2025-08-15,2025-10-10,Fatigue,N,Recovered,Patient
+DMX-0334,2026-04-30,86,F,25,2026-02-02,2026-02-28,Rash,N,Recovered,Physician
+DMX-0335,2025-08-21,62,F,10,2025-06-02,2025-07-21,Headache,N,Not recovered,Physician
+DMX-0336,2026-03-16,48,M,25,2025-11-04,2025-12-23,Headache,N,Unknown,Patient
+DMX-0337,2026-06-21,74,M,10,2026-02-25,2026-04-09,Nausea,N,Not recovered,Physician
+DMX-0338,2026-03-04,72,F,25,2025-11-18,2026-01-08,Rash,N,Not recovered,Nurse
+DMX-0339,2025-09-13,46,F,10,2025-07-30,2025-07-20,Nausea,N,Unknown,Nurse
+DMX-0340,2025-09-01,60,F,25,2025-06-05,2025-08-03,Insomnia,N,Not recovered,Physician
+DMX-0341,2025-10-23,61,F,25,2025-06-29,2025-08-27,Nausea,N,Recovering,Physician
+DMX-0342,2025-09-28,28,F,10,2025-07-09,2025-08-20,Urinary tract infection,Y,Recovering,Patient
+DMX-0343,2026-01-09,52,F,10,2025-11-04,2025-11-27,Constipation,N,Recovered,Pharmacist
+DMX-0344,2026-04-15,63,F,10,2025-12-28,2026-02-03,Constipation,N,Recovering,Pharmacist
+DMX-0345,2026-03-23,35,F,10,2026-02-15,2026-02-21,Vomiting,Y,Not recovered,Patient
+DMX-0346,2026-01-22,68,F,10,2025-11-11,2025-12-13,Headache,N,Recovered,Patient
+DMX-0347,2026-07-12,59,F,25,2026-03-13,2026-05-07,Hypoglycaemia,N,Recovering,Pharmacist
+DMX-0348,2025-11-30,42,M,25,2025-08-01,2025-09-14,Hypoglycaemia,N,Recovered,Nurse
+DMX-0349,2025-11-29,84,F,10,2025-08-14,2025-09-14,Nausea,N,Not recovered,Pharmacist
+DMX-0350,2026-01-01,71,F,10,2025-10-30,2025-12-21,Hypoglycaemia,Y,Unknown,Physician
+DMX-0351,2026-01-28,77,F,10,2025-12-02,2025-12-17,Nausea,N,Unknown,Nurse
+DMX-0352,2025-12-31,65,M,10,2025-09-01,2025-10-18,Insomnia,N,Recovering,Physician
+DMX-0353,2025-10-30,63,M,25,2025-08-17,2025-09-26,Headache,N,Unknown,Pharmacist
+DMX-0354,2025-12-12,57,M,10,2025-10-03,2025-10-21,Dizziness,Y,Recovered,Physician
+DMX-0355,2026-03-16,65,F,10,2025-12-14,2025-12-27,Back pain,N,Recovered,Pharmacist
+DMX-0356,2026-01-29,65,F,25,2025-11-04,2025-11-25,Rash,N,Recovering,Pharmacist
+DMX-0357,2025-11-01,63,F,10,2025-07-06,2025-08-18,Diarrhoea,N,Recovering,Nurse
+DMX-0358,2025-10-17,67,M,10,2025-07-19,2025-07-27,Vomiting,N,Recovered,Physician
+DMX-0359,2026-01-18,71,F,25,2025-10-12,2025-11-08,Rash,N,Recovering,Patient
+DMX-0360,2025-08-27,68,M,25,2025-06-14,2025-07-24,Rash,N,Recovering,Physician
+DMX-0361,2025-09-08,64,F,10,2025-07-18,2025-08-24,Headache,N,Recovered,Physician
+DMX-0362,2026-01-22,68,M,25,2025-09-10,2025-10-30,Urinary tract infection,Y,Recovered,Patient
+DMX-0363,2025-12-14,64,M,10,2025-09-17,2025-10-30,Headache,N,Recovered,Patient
+DMX-0364,2026-03-09,31,F,25,2026-01-09,2026-02-02,Headache,N,Recovering,Pharmacist
+DMX-0365,2026-06-02,54,M,25,2026-02-13,2026-04-02,Insomnia,N,Recovered,Physician
+DMX-0366,2026-02-25,,F,25,2025-10-08,2025-11-28,Rash,N,Unknown,Physician
+DMX-0367,2026-06-08,57,M,25,2026-03-03,2026-04-28,Fatigue,N,Recovered,Nurse
+DMX-0368,2026-06-24,58,F,25,2026-03-24,2026-04-25,Nausea,N,Unknown,Physician
+DMX-0369,2026-02-18,49,F,25,2025-12-26,2025-12-30,Constipation,N,Recovered,Pharmacist
+DMX-0370,2025-09-19,46,M,25,2025-07-14,2025-07-27,Vomiting,N,Not recovered,Patient
+DMX-0371,2025-10-14,70,F,25,2025-08-11,2025-08-23,Hypoglycaemia,N,Recovered,Physician
+DMX-0372,2026-06-14,56,M,25,2026-03-04,2026-04-28,Insomnia,N,Recovering,Patient
+DMX-0373,2025-12-23,26,M,25,2025-08-14,2025-10-03,Constipation,N,Unknown,Physician
+DMX-0374,2026-03-07,62,M,25,2025-12-15,2026-01-15,Headache,N,Recovered,Physician
+DMX-0375,2026-02-25,61,F,25,2025-12-28,2026-01-13,Rash,N,Recovered,Nurse
+DMX-0376,2025-12-13,59,M,25,2025-09-01,2025-10-13,Urinary tract infection,N,Not recovered,Physician
+DMX-0377,2025-11-17,60,M,10,2025-10-17,2025-11-13,Nausea,N,Recovered,Nurse
+DMX-0378,2025-08-08,78,F,25,2025-07-12,2025-08-05,Rash,N,Unknown,Pharmacist
+DMX-0379,2026-04-04,48,M,25,2026-01-18,2026-01-29,Diarrhoea,N,Recovering,Patient
+DMX-0380,2026-08-09,53,M,25,2026-03-28,2026-05-15,Headache,N,Recovering,Patient
+DMX-0381,2025-07-30,38,M,25,2025-06-13,2025-07-06,Hypoglycaemia,N,Recovering,Pharmacist
+DMX-0382,2026-04-21,75,M,10,2026-01-03,2026-01-26,Urinary tract infection,N,Recovering,Physician
+DMX-0383,2025-09-06,44,M,10,2025-07-15,2025-07-19,Cough,N,Recovering,Patient
+DMX-0384,2026-03-03,39,F,25,2025-12-07,2026-01-17,Nausea,N,Not recovered,Nurse
+DMX-0385,2025-10-15,50,F,10,2025-07-14,2025-08-07,Headache,N,Recovering,Nurse
+DMX-0386,2025-09-26,62,M,25,2025-06-10,2025-07-20,Headache,N,Recovered,Pharmacist
+DMX-0387,2025-12-20,37,F,25,2025-10-10,2025-10-12,Nausea,N,Unknown,Nurse
+DMX-0388,2025-09-30,69,M,25,2025-07-30,2025-08-11,Rash,N,Unknown,Patient
+DMX-0389,2026-05-14,45,M,10,2026-03-20,2026-04-09,Back pain,N,Not recovered,Pharmacist
+DMX-0390,2026-01-15,43,M,25,2025-10-28,2025-12-07,Dizziness,N,Fatal,Nurse
+DMX-0391,2026-04-27,69,F,10,2026-02-11,2026-03-23,Headache,N,Recovered,Nurse
+DMX-0392,2026-01-26,37,M,10,2025-10-01,2025-11-15,Nausea,N,Recovered,Patient
+DMX-0393,2025-09-02,60,F,25,2025-07-12,2025-07-31,Rash,N,Recovering,Pharmacist
+DMX-0394,2025-09-08,55,M,10,2025-06-24,2025-08-07,Constipation,N,Recovering,Pharmacist
+DMX-0395,2025-09-06,75,F,10,2025-06-30,2025-07-29,Vomiting,N,Not recovered,Nurse
+DMX-0396,2025-10-08,56,F,25,2025-07-16,2025-09-06,Constipation,N,Recovered,Patient
+DMX-0397,2025-12-19,90,F,25,2025-09-21,2025-10-05,Dizziness,N,Unknown,Physician
+DMX-0398,2026-05-05,55,M,10,2026-02-11,2026-03-05,Insomnia,N,Recovered,Nurse
+DMX-0399,2025-11-09,46,F,10,2025-08-17,2025-08-28,Urinary tract infection,N,Recovering,Patient
+DMX-0400,2025-09-11,79,F,25,2025-07-01,2025-07-16,Cough,N,Recovered,Nurse
+DMX-0401,2025-09-23,66,M,10,2025-06-02,2025-06-29,Urinary tract infection,N,Not recovered,Physician
+DMX-0402,2026-06-21,53,M,10,2026-03-02,2026-04-04,Vomiting,N,Unknown,Physician
+DMX-0403,2026-03-29,82,F,10,2026-02-08,2026-03-24,Fatigue,N,Recovering,Nurse
+DMX-0404,2025-11-17,45,F,10,2025-09-11,2025-10-04,Fatigue,N,Fatal,Nurse
+DMX-0405,2026-05-18,57,M,25,2026-02-27,2026-04-11,Nausea,N,Recovering,Physician
+DMX-0406,2025-09-17,34,M,25,2025-06-28,2025-07-11,Constipation,N,Recovered,Physician
+DMX-0407,2026-06-08,212,M,25,2026-02-22,2026-03-23,Nausea,N,Recovered,Physician
+DMX-0408,2026-05-11,61,F,25,2026-03-29,2026-04-20,Urinary tract infection,N,Recovering,Physician
+DMX-0409,2026-02-19,62,M,25,2025-12-13,2025-12-21,Headache,N,Not recovered,Physician
+DMX-0410,2026-05-25,65,F,25,2026-01-18,2026-03-02,Nausea,N,Recovered,Nurse
+DMX-0411,2026-05-09,50,F,10,2026-02-05,2026-03-13,Back pain,N,Not recovered,Physician
+DMX-0412,2025-10-24,48,F,10,2025-07-14,2025-07-26,Dizziness,N,Recovered,Nurse
+DMX-0413,2026-05-17,75,M,10,2026-02-18,2026-04-08,Rash,N,Unknown,Patient
+DMX-0414,2026-01-17,43,M,25,2025-10-18,2025-12-08,Vomiting,N,Recovered,Nurse
+DMX-0415,2025-08-10,67,M,10,2025-06-08,2025-07-14,Nausea,N,Unknown,Patient
+DMX-0416,2025-11-04,69,M,10,2025-10-03,2025-10-05,Headache,N,Recovered,Patient
+DMX-0417,2026-03-03,46,M,10,2026-02-08,2026-02-15,Headache,Y,Recovered,Patient
+DMX-0418,2026-02-23,49,F,25,2025-11-13,2025-12-13,Headache,N,Recovered,Pharmacist
+DMX-0419,2026-02-21,43,F,10,2026-01-19,2026-02-01,Diarrhoea,Y,Recovered,Nurse
+DMX-0420,2025-12-28,75,M,25,2025-09-05,2025-10-12,Rash,N,Recovered,Patient
+DMX-0421,2026-05-29,59,M,10,2026-01-15,2026-03-01,Back pain,N,Recovering,Physician
+DMX-0422,2025-11-06,57,F,25,2025-07-30,2025-07-20,Back pain,N,Recovered,Nurse
+DMX-0423,2025-12-15,44,M,10,2025-08-30,2025-10-04,Nausea,N,Unknown,Pharmacist
+DMX-0424,2026-02-06,61,F,25,2025-11-16,2025-11-23,Headache,N,Recovered,Pharmacist
+DMX-0425,2026-05-27,38,M,10,2026-03-22,2026-03-28,Headache,N,Not recovered,Patient
+DMX-0426,2025-09-01,47,F,10,2025-06-18,2025-07-07,Constipation,N,Unknown,Patient
+DMX-0427,2026-04-12,56,M,10,2026-01-23,2026-01-27,Nausea,N,Recovering,Patient
+DMX-0428,2026-02-19,33,M,25,2025-12-21,2026-02-06,Rash,N,Recovered,Patient
+DMX-0429,2025-12-09,70,F,10,2025-09-01,2025-09-15,Diarrhoea,N,Recovering,Physician
+DMX-0430,2026-01-12,28,M,25,2025-10-28,2025-11-28,Diarrhoea,N,Recovered,Patient
+DMX-0431,2025-10-24,68,F,10,2025-08-23,2025-10-11,Headache,Y,Not recovered,Nurse
+DMX-0432,2026-04-22,66,M,25,2026-01-12,2026-01-25,Rash,N,Recovered,Nurse
+DMX-0433,2025-08-18,42,M,10,2025-06-14,2025-08-10,Constipation,Y,Recovered,Nurse
+DMX-0434,2026-03-19,58,F,25,2025-11-06,2026-01-04,Headache,N,Unknown,Physician
+DMX-0435,2025-11-28,41,F,25,2025-09-29,2025-11-08,Nausea,N,Unknown,Nurse
+DMX-0436,2025-11-05,40,F,25,2025-07-24,2025-09-07,Nausea,N,Recovering,Nurse
+DMX-0437,2025-11-14,70,F,10,2025-07-21,2025-08-16,Headache,N,Not recovered,Pharmacist
+DMX-0438,2026-02-09,57,M,25,2025-11-27,2026-01-01,Headache,N,Recovering,Nurse
+DMX-0439,2026-03-03,50,M,25,2026-01-21,2026-02-05,Diarrhoea,N,Recovering,Nurse
+DMX-0440,2025-11-25,76,M,10,2025-09-09,2025-09-16,Diarrhoea,N,Recovered,Pharmacist
+DMX-0441,2025-11-14,43,M,10,2025-08-26,2025-10-24,Nausea,N,Recovered,Pharmacist
+DMX-0442,2026-04-02,68,M,25,2026-03-13,2026-03-22,Vomiting,N,Recovering,Nurse
+DMX-0443,2025-10-09,56,M,25,2025-08-27,,Headache,N,Not recovered,Physician
+DMX-0444,2026-07-22,60,F,25,2026-03-18,2026-05-08,Diarrhoea,N,Unknown,Physician
+DMX-0445,2025-12-03,80,M,10,2025-10-30,,Nausea,N,Recovered,Patient
+DMX-0446,2026-01-20,59,F,25,2025-11-03,2025-12-28,Nausea,N,Recovered,Pharmacist
+DMX-0447,2025-08-08,62,F,10,2025-07-12,2025-08-05,Cough,N,Recovered,Patient
+DMX-0448,2025-11-07,47,F,10,2025-08-07,2025-10-01,Headache,N,Not recovered,Patient
+DMX-0449,2025-12-01,48,F,25,2025-10-12,2025-10-18,Dizziness,N,Recovered,Pharmacist
+DMX-0450,2026-02-25,25,M,10,2025-11-29,2025-12-10,Nausea,N,Recovering,Nurse
+DMX-0451,2025-09-29,35,F,25,2025-07-14,2025-08-12,Nausea,N,Recovering,Nurse
+DMX-0452,2025-09-12,61,F,10,2025-06-07,2025-08-03,Back pain,N,Recovering,Nurse
+DMX-0453,2025-12-09,57,F,10,2025-08-03,2025-09-21,Headache,N,Recovered,Nurse
+DMX-0454,2025-10-17,74,F,25,2025-07-08,2025-07-19,Headache,N,Recovered,Pharmacist
+DMX-0455,2026-08-07,44,M,25,2026-03-15,2026-05-14,Nausea,N,Recovering,Nurse
+DMX-0456,2025-10-03,55,M,25,2025-08-12,2025-08-30,Diarrhoea,Y,Recovering,Pharmacist
+DMX-0457,2026-03-17,73,F,25,2025-12-03,2025-12-24,Hypoglycaemia,N,Recovering,Nurse
+DMX-0458,2026-02-08,74,M,10,2025-12-05,2026-02-02,Cough,N,Recovering,Pharmacist
+DMX-0459,2025-12-24,49,F,25,2025-09-16,2025-11-05,Back pain,N,Not recovered,Pharmacist
+DMX-0460,2026-03-01,47,F,25,2026-01-21,2026-01-25,Urinary tract infection,N,Recovering,Patient
+DMX-0461,2026-03-16,69,M,10,2025-12-18,2026-02-06,Rash,N,Not recovered,Physician
+DMX-0462,2025-10-14,89,F,25,2025-08-09,2025-09-16,Rash,N,Recovering,Nurse
+DMX-0463,2026-07-26,58,F,10,2026-03-08,2026-05-04,Headache,Y,Not recovered,Nurse
+DMX-0464,2025-12-18,76,M,10,2025-08-24,2025-10-16,Nausea,N,Recovering,Nurse
+DMX-0465,2026-04-09,50,F,25,2026-03-05,2026-04-06,Headache,N,Fatal,Nurse
+DMX-0466,2026-01-05,,F,10,2025-12-03,2025-12-30,Vomiting,N,Recovered,Patient
+DMX-0467,2025-10-07,62,M,25,2025-07-24,2025-09-21,Diarrhoea,N,Unknown,Pharmacist
+DMX-0468,2026-04-04,50,F,25,2026-01-21,2026-03-08,Fatigue,N,Fatal,Patient
+DMX-0469,2026-05-12,44,F,25,2026-03-20,2026-04-15,Nausea,N,Not recovered,Pharmacist
+DMX-0470,2025-10-10,73,F,25,2025-06-06,2025-08-03,Headache,N,Recovered,Patient
+DMX-0471,2025-11-18,81,M,10,2025-07-17,2025-09-10,Urinary tract infection,N,Recovered,Pharmacist
+DMX-0472,2026-01-14,61,F,25,2025-11-08,2025-12-19,Nausea,Y,Recovered,Physician
+DMX-0473,2026-04-07,48,F,25,2026-03-11,2026-03-24,Rash,N,Recovering,Nurse
+DMX-0474,2026-03-27,54,M,25,2026-01-26,2026-02-09,Headache,N,Recovered,Pharmacist
+DMX-0475,2026-06-19,69,F,10,2026-02-02,2026-03-29,Fatigue,N,Unknown,Pharmacist
+DMX-0476,2026-01-20,52,M,10,2025-11-08,2025-12-18,Vomiting,N,Recovered,Patient
+DMX-0477,2026-02-28,58,M,10,2025-11-26,2025-12-20,Rash,Y,Recovered,Patient
+DMX-0478,2025-10-22,63,F,25,2025-07-02,2025-08-13,Rash,N,Recovered,Nurse
+DMX-0479,2025-10-13,69,F,10,2025-07-25,,Constipation,N,Recovering,Nurse
+DMX-0480,2026-03-07,68,M,10,2025-11-12,2026-01-01,Back pain,N,Recovered,Pharmacist
+DMX-0481,2025-11-17,65,F,25,2025-10-25,2025-11-02,Headache,N,Recovering,Pharmacist
+DMX-0482,2025-11-30,55,M,25,2025-08-13,2025-09-12,Hypoglycaemia,N,Not recovered,Patient
+DMX-0483,2025-08-18,61,F,25,2025-06-08,2025-07-18,Nausea,N,Recovered,Physician
+DMX-0484,2025-11-23,77,F,10,2025-09-29,2025-11-28,Headache,N,Unknown,Patient
+DMX-0485,2025-10-28,63,F,25,2025-09-11,2025-11-02,Fatigue,N,Recovered,Nurse
+DMX-0486,2026-03-11,32,M,25,2025-12-22,2025-12-29,Nausea,N,Unknown,Nurse
+DMX-0487,2026-01-19,45,F,10,2025-12-20,2026-01-03,Dizziness,N,Recovering,Patient
+DMX-0488,2025-11-19,52,F,25,2025-08-09,2025-09-13,Constipation,Y,Recovering,Nurse
+DMX-0489,2026-04-23,65,F,25,2026-01-02,2026-01-28,Hypoglycaemia,N,Recovered,Pharmacist
+DMX-0490,2025-10-08,48,M,10,2025-08-01,2025-09-17,Back pain,N,Recovering,Physician
+DMX-0491,2026-06-12,61,M,10,2026-02-03,2026-03-22,Urinary tract infection,N,Not recovered,Physician
+DMX-0492,2025-08-16,60,F,25,2025-06-30,2025-07-27,Headache,N,Recovered,Physician
+DMX-0493,2026-07-10,79,F,10,2026-03-15,2026-04-25,Dizziness,N,Recovering,Patient
+DMX-0494,2026-02-17,38,F,25,2025-12-12,2026-01-14,Rash,Y,Not recovered,Nurse
+DMX-0495,2026-05-09,62,F,25,2026-03-03,2026-04-24,Hypoglycaemia,N,Recovering,Patient
+DMX-0496,2025-12-02,50,M,25,2025-09-20,2025-11-19,Diarrhoea,Y,Not recovered,Nurse
+DMX-0497,2026-03-18,79,M,10,2026-01-13,2026-02-25,Headache,Y,Recovered,Physician
+DMX-0498,2025-12-16,,M,25,2025-08-24,2025-10-09,Hypoglycaemia,N,Recovered,Pharmacist
+DMX-0499,2025-08-23,67,M,25,2025-06-06,2025-06-25,Rash,Y,Recovered,Nurse
+DMX-0500,2026-03-31,66,F,10,2026-01-10,2026-03-01,Rash,Y,Not recovered,Patient
+DMX-0501,2026-01-06,65,M,25,2025-09-23,2025-11-13,Rash,Y,Recovering,Nurse
+DMX-0502,2025-10-04,66,F,10,2025-06-10,2025-07-10,Back pain,N,Recovered,Physician
+DMX-0503,2025-11-08,67,M,10,2025-07-19,2025-08-19,Vomiting,N,Recovered,Patient
+DMX-0504,2026-03-20,56,F,10,2026-01-29,2026-03-08,Dizziness,N,Recovered,Patient
+DMX-0505,2026-01-14,61,F,25,2025-11-08,2025-12-19,Nausea,Y,Recovered,Physician
+DMX-0506,2026-07-22,60,F,25,2026-03-18,2026-05-08,Diarrhoea,N,Unknown,Physician
+DMX-0507,2026-05-29,59,M,10,2026-01-15,2026-03-01,Back pain,N,Recovering,Physician
+DMX-0508,2026-06-18,50,M,25,2026-01-30,2026-03-30,Headache,N,Not recovered,Pharmacist
+DMX-0509,2025-12-26,42,F,25,2025-11-12,2025-11-15,Headache,N,Recovering,Physician
+DMX-0510,2025-11-29,77,M,25,2025-09-01,2025-09-11,Nausea,N,Recovered,Patient
+DMX-0511,2025-09-15,53,M,25,2025-07-16,2025-08-05,Headache,N,Recovered,Patient
+DMX-0512,2025-12-13,54,M,25,2025-09-20,2025-10-03,Headache,N,Unknown,Nurse
